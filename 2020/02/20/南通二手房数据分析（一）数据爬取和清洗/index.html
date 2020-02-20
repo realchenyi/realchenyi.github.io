@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
-  <title>互联网银行行业分析（一）概念界定 | 互金产品101</title>
+  <title>南通二手房数据分析（一）数据爬取和清洗 | 互金产品101</title>
   
   
 
@@ -272,8 +272,8 @@
         
   
     <h1 class="title">
-      <a href="/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%A6%82%E5%BF%B5%E7%95%8C%E5%AE%9A/">
-        互联网银行行业分析（一）概念界定
+      <a href="/2020/02/20/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E5%92%8C%E6%B8%85%E6%B4%97/">
+        南通二手房数据分析（一）数据爬取和清洗
       </a>
     </h1>
   
@@ -304,7 +304,7 @@
             <div class="new-meta-item date">
   <a class='notlink'>
     <i class="fas fa-calendar-alt" aria-hidden="true"></i>
-    <p>2020-02-15</p>
+    <p>2020-02-20</p>
   </a>
 </div>
 
@@ -314,9 +314,9 @@
             
   
   <div class='new-meta-item category'>
-    <a href='/categories/%E9%87%91%E8%9E%8D/' rel="nofollow">
+    <a href='/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/' rel="nofollow">
       <i class="fas fa-folder-open" aria-hidden="true"></i>
-      <p>金融</p>
+      <p>数据分析</p>
     </a>
   </div>
 
@@ -351,51 +351,29 @@
 
     <section class="article typo">
       <div class="article-entry" itemprop="articleBody">
-        <p>信息技术的发展，带来了银行业的变革。金融信息化的进程中，自动取款机、网上银行、手机银行等革命性产品相继出现，网络逐步成为银行提供服务的主要渠道。招商银行2018年报显示，该行98.24%的零售业务和92.96%的批发业务是通过电子渠道完成的。</p>
-<a id="more"></a>     
+        <p>本文主要内容：使用Python爬取链家网二手房数据；对爬取数据进行清洗。</p>
+<a id="more"></a>
+<p>特别说明：本文程序模仿了知乎网友<a href="https://zhuanlan.zhihu.com/p/31267802" target="_blank" rel="noopener">半砚墨</a>。</p>
+<h2 id="数据爬取"><a href="#数据爬取" class="headerlink" title="数据爬取"></a>数据爬取</h2><p>第一步，导入所需模块。requests用于信息抓取，time用于设置每次抓取的休息时间，BeautifulSoup用于页面解析，pandas用于数据处理。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> time</span><br><span class="line"><span class="keyword">from</span> bs4 <span class="keyword">import</span> BeautifulSoup</span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br></pre></td></tr></table></figure>
 
-<p>根据出现时间、主要特征、核心技术的不同，银行业引进信息技术的过程大致可以分为三个阶段：电子银行、网络银行、互联网银行。</p>
-<table>
-   <tr>
-      <td>阶段</td>
-      <td>电子银行</td>
-      <td>网络银行</td>
-      <td>互联网银行</td>
-   </tr>
-   <tr>
-      <td>出现时间</td>
-      <td>1960年代</td>
-      <td>1990年代</td>
-      <td>21世纪</td>
-   </tr>
-   <tr>
-      <td>主要特征</td>
-      <td>金融电子化</td>
-      <td>金融网络化</td>
-      <td>金融智能化</td>
-   </tr>
-   <tr>
-      <td>核心技术</td>
-      <td>计算机技术</td>
-      <td>网络技术</td>
-      <td>大数据、云计算</td>
-   </tr>
-   <tr>
-      <td>代表成果</td>
-      <td>自动取款机</td>
-      <td>网上银行</td>
-      <td>互联网直营银行</td>
-   </tr>
-   <tr>
-      <td></td>
-   </tr>
-</table>
+<p>第二步，设置头部信息，将爬虫伪装成正常请求。由于链家网反爬机制的升级，一定要将User-Agent替换成浏览器标识。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">headers = &#123;</span><br><span class="line"><span class="string">'User-Agent'</span>: <span class="string">"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36"</span>,</span><br><span class="line"><span class="string">'Accept'</span>:<span class="string">'application/json, text/javascript, */*; q=0.01'</span>,</span><br><span class="line"><span class="string">'Accept-Encoding'</span>:<span class="string">'gzip, deflate, br'</span>,</span><br><span class="line"><span class="string">'Accept-Language'</span>:<span class="string">'zh-CN,zh;q=0.8'</span>,</span><br><span class="line"><span class="string">'Connection'</span>:<span class="string">'keep-alive'</span>,</span><br><span class="line"><span class="string">'Referer'</span>:<span class="string">'http://www.baidu.com/link?url=_andhfsjjjKRgEWkj7i9cFmYYGsisrnm2A-TN3XZDQXxvGsM9k9ZZSnikW2Yds4s&amp;amp;amp;wd=&amp;amp;amp;eqid=c3435a7d00006bd600000003582bfd1f'</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
+<p>第三步，抓取网页信息。观察目标网页的URL结构，可发现其由固定部分(<a href="http://nt.lianjia.com/ershoufang/pg" target="_blank" rel="noopener">http://nt.lianjia.com/ershoufang/pg</a>) 和页码组成。因此，我们使用for循环构造要请求的URL，并对目标网页进行爬取和解析。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">1</span>,<span class="number">101</span>): </span><br><span class="line">    url = <span class="string">'http://nt.lianjia.com/ershoufang/pg'</span>+str(i)+<span class="string">"/"</span></span><br><span class="line">    res = requests.get(url=url,headers=headers)</span><br><span class="line">    html = res.text</span><br><span class="line">    time.sleep(<span class="number">0.7</span>)</span><br><span class="line">    lj = BeautifulSoup(html,<span class="string">'html.parser'</span>)</span><br></pre></td></tr></table></figure>
 
-<center style="font-size:14px;color:rgb(51,51,51,0.7)">表1 银行业引入信息技术的三个阶段</center>
+<p>第四步，解析页面信息。首先，新建4个空列表，用于后期插入数据。然后，使用开发者工具查看目标信息所处的位置，提取这些信息，并将其插入列表。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line">tpc = []</span><br><span class="line">loc = []</span><br><span class="line">hio = []</span><br><span class="line">fio = []</span><br><span class="line"></span><br><span class="line"><span class="comment">#提取价格信息</span></span><br><span class="line">price = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"priceInfo"</span>&#125;)</span><br><span class="line"><span class="keyword">for</span> p <span class="keyword">in</span> price:</span><br><span class="line">	totalPrice = p.span.string</span><br><span class="line">    tpc.append(totalPrice)</span><br><span class="line">    </span><br><span class="line"><span class="comment">#提取位置信息</span></span><br><span class="line">price = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"positionInfo"</span>&#125;)  </span><br><span class="line"><span class="keyword">for</span> l <span class="keyword">in</span> price:</span><br><span class="line">	location = l.get_text()</span><br><span class="line">    loc.append(location)</span><br><span class="line">        </span><br><span class="line"><span class="comment">#提取房源信息</span></span><br><span class="line">houseInfo = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"houseInfo"</span>&#125;)    </span><br><span class="line"><span class="keyword">for</span> h <span class="keyword">in</span> houseInfo:</span><br><span class="line">	house = h.get_text()</span><br><span class="line">    hio.append(house)</span><br><span class="line">    </span><br><span class="line"><span class="comment">#提取关注度信息</span></span><br><span class="line">followInfo = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"followInfo"</span>&#125;)</span><br><span class="line"><span class="keyword">for</span> f <span class="keyword">in</span> followInfo:</span><br><span class="line">	follow = f.get_text()</span><br><span class="line">    fio.append(follow)</span><br></pre></td></tr></table></figure>
 
-<p>Web2.0时代，用户创造内容（UGC）为互联网平台提供了大量数据。互联网银行通过数据挖掘，进行用户画像和风险评估，从而提供精度高、成本低、风险小的线上金融服务。传统银行的网络分支和无线下网点的互联网直营银行均提供此类金融服务，本系列以后者为主要分析对象。</p>
+<p>第五步，将数据传入pandas数据框，并将其导出为Excel文件。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">house = pd.DataFrame(&#123;<span class="string">"totalprice"</span>:tpc,<span class="string">"location"</span>:loc,<span class="string">"houseinfo"</span>:hio,<span class="string">"followinfo"</span>:fio&#125;)</span><br><span class="line">house.to_excel(<span class="string">"RawData.xlsx"</span>)</span><br></pre></td></tr></table></figure>
+<img src="/images/18.png" width="100%">
+<center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 原始数据</center>
 
+<h2 id="数据处理"><a href="#数据处理" class="headerlink" title="数据处理"></a>数据处理</h2><p>数据处理主要有三个步骤：一是使用Excel的“文本分列功能”（数据-&gt;分列），将混同在一列的数据分类；二是使用Python，插入二手房区块所属的行政区域；三是剔除错误数据和极端数据，并调整数据格式。</p>
+<img src="/images/19.png" width="100%">
+<center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 处理后的数据</center>
       </div>
       
       
@@ -406,10 +384,10 @@
     <div class='new-meta-box'>
       
         
-          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-02-15T15:23:40+08:00">
+          <div class="new-meta-item date" itemprop="dateUpdated" datetime="2020-02-20T17:01:20+08:00">
   <a class='notlink'>
     <i class="fas fa-clock" aria-hidden="true"></i>
-    <p>更新于 2020年2月15日</p>
+    <p>更新于 2020年2月20日</p>
   </a>
 </div>
 
@@ -418,7 +396,7 @@
         
           
   
-  <div class="new-meta-item meta-tags"><a class="tag" href="/tags/%E9%93%B6%E8%A1%8C/" rel="nofollow"><i class="fas fa-tag" aria-hidden="true"></i><p>银行</p></a></div>
+  <div class="new-meta-item meta-tags"><a class="tag" href="/tags/Python/" rel="nofollow"><i class="fas fa-tag" aria-hidden="true"></i><p>Python</p></a></div>
 
 
         
@@ -431,7 +409,7 @@
       
         <a class="-mob-share-qq" title="QQ好友" rel="external nofollow noopener noreferrer"
           
-          href="http://connect.qq.com/widget/shareqq/index.html?url=http://yoursite.com/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%A6%82%E5%BF%B5%E7%95%8C%E5%AE%9A/&title=互联网银行行业分析（一）概念界定 | 互金产品101&summary=信息技术的发展，带来了银行业的变革。金融信息化的进程中，自动取款机、网上银行、手机银行等革命性产品相继出现，网络逐步成为银行提供服务的主要渠道。招商银行2018年报显示，该行98.24%的零售业务和92.96%的批发业务是通过电子渠道完成的。"
+          href="http://connect.qq.com/widget/shareqq/index.html?url=http://yoursite.com/2020/02/20/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E5%92%8C%E6%B8%85%E6%B4%97/&title=南通二手房数据分析（一）数据爬取和清洗 | 互金产品101&summary=本文主要内容：使用Python爬取链家网二手房数据；对爬取数据进行清洗。"
           
           >
           
@@ -443,7 +421,7 @@
       
         <a class="-mob-share-qzone" title="QQ空间" rel="external nofollow noopener noreferrer"
           
-          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://yoursite.com/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%A6%82%E5%BF%B5%E7%95%8C%E5%AE%9A/&title=互联网银行行业分析（一）概念界定 | 互金产品101&summary=信息技术的发展，带来了银行业的变革。金融信息化的进程中，自动取款机、网上银行、手机银行等革命性产品相继出现，网络逐步成为银行提供服务的主要渠道。招商银行2018年报显示，该行98.24%的零售业务和92.96%的批发业务是通过电子渠道完成的。"
+          href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://yoursite.com/2020/02/20/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E5%92%8C%E6%B8%85%E6%B4%97/&title=南通二手房数据分析（一）数据爬取和清洗 | 互金产品101&summary=本文主要内容：使用Python爬取链家网二手房数据；对爬取数据进行清洗。"
           
           >
           
@@ -455,7 +433,7 @@
       
         <a class="-mob-share-weibo" title="微博" rel="external nofollow noopener noreferrer"
           
-          href="http://service.weibo.com/share/share.php?url=http://yoursite.com/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%A6%82%E5%BF%B5%E7%95%8C%E5%AE%9A/&title=互联网银行行业分析（一）概念界定 | 互金产品101&summary=信息技术的发展，带来了银行业的变革。金融信息化的进程中，自动取款机、网上银行、手机银行等革命性产品相继出现，网络逐步成为银行提供服务的主要渠道。招商银行2018年报显示，该行98.24%的零售业务和92.96%的批发业务是通过电子渠道完成的。"
+          href="http://service.weibo.com/share/share.php?url=http://yoursite.com/2020/02/20/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E5%92%8C%E6%B8%85%E6%B4%97/&title=南通二手房数据分析（一）数据爬取和清洗 | 互金产品101&summary=本文主要内容：使用Python爬取链家网二手房数据；对爬取数据进行清洗。"
           
           >
           
@@ -479,40 +457,21 @@
       
           <div class="prev-next">
               
-                  <section class="prev">
-                      <span class="art-item-left">
-                          <h6><i class="fas fa-chevron-left" aria-hidden="true"></i>&nbsp;上一页</h6>
+              
+                  <section class="next">
+                      <span class="art-item-right" aria-hidden="true">
+                          <h6>下一页&nbsp;<i class="fas fa-chevron-right" aria-hidden="true"></i></h6>
                           <h4>
-                              <a href="/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E5%8F%91%E5%B1%95%E8%83%8C%E6%99%AF/" rel="prev" title="互联网银行行业分析（二）发展背景">
-                                
-                                    互联网银行行业分析（二）发展背景
-                                
+                              <a href="/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89SWOT%E5%88%86%E6%9E%90/" rel="prev" title="互联网银行行业分析（四）SWOT分析">
+                                  
+                                      互联网银行行业分析（四）SWOT分析
+                                  
                               </a>
                           </h4>
                           
                               
                               <h6 class="tags">
                                   <a class="tag" href="/tags/%E9%93%B6%E8%A1%8C/"><i class="fas fa-tag fa-fw" aria-hidden="true"></i> 银行</a>
-                              </h6>
-                          
-                      </span>
-                  </section>
-              
-              
-                  <section class="next">
-                      <span class="art-item-right" aria-hidden="true">
-                          <h6>下一页&nbsp;<i class="fas fa-chevron-right" aria-hidden="true"></i></h6>
-                          <h4>
-                              <a href="/2020/02/14/%E4%BA%92%E9%87%91%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%B2%97%E4%BD%8D%E5%88%86%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89%E6%8B%9B%E8%81%98%E6%83%85%E5%86%B5/" rel="prev" title="互金产品经理岗位分析（四）招聘情况">
-                                  
-                                      互金产品经理岗位分析（四）招聘情况
-                                  
-                              </a>
-                          </h4>
-                          
-                              
-                              <h6 class="tags">
-                                  <a class="tag" href="/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"><i class="fas fa-tag fa-fw" aria-hidden="true"></i> 产品经理</a>
                               </h6>
                           
                       </span>
@@ -556,7 +515,7 @@
 
   <script>
     window.subData = {
-      title: '互联网银行行业分析（一）概念界定',
+      title: '南通二手房数据分析（一）数据爬取和清洗',
       tools: true
     }
   </script>
@@ -608,6 +567,20 @@
           
             
               
+  <section class='widget toc-wrapper'>
+    
+<header class='pure'>
+  <div><i class="fas fa-list fa-fw" aria-hidden="true"></i>&nbsp;&nbsp;本文目录</div>
+  
+    <!-- <div class='wrapper'><a class="s-toc rightBtn" rel="external nofollow noopener noreferrer" href="javascript:void(0)"><i class="fas fa-thumbtack fa-fw"></i></a></div> -->
+  
+</header>
+
+    <div class='content pure'>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#数据爬取"><span class="toc-text">数据爬取</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#数据处理"><span class="toc-text">数据处理</span></a></li></ol>
+    </div>
+  </section>
+
 
             
           
@@ -758,7 +731,7 @@
 </header>
 
     <div class="content pure">
-      <ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="\2020\02\15\互联网银行行业分析（二）发展背景\" title="互联网银行行业分析（二）发展背景" rel="bookmark">互联网银行行业分析（二）发展背景</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="\2020\02\15\互联网银行行业分析（四）SWOT分析\" title="互联网银行行业分析（四）SWOT分析" rel="bookmark">互联网银行行业分析（四）SWOT分析</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-title"><h3><a href="\2020\02\15\互联网银行行业分析（三）发展现状\" title="互联网银行行业分析（三）发展现状" rel="bookmark">互联网银行行业分析（三）发展现状</a></h3></div></li></ul>
+      
     </div>
   </section>
 
