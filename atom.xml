@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-02T14:02:26.477Z</updated>
+  <updated>2020-03-02T14:08:29.253Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://yoursite.com/2020/03/02/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
     <id>http://yoursite.com/2020/03/02/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/</id>
     <published>2020-03-02T13:35:34.000Z</published>
-    <updated>2020-03-02T14:02:26.477Z</updated>
+    <updated>2020-03-02T14:08:29.253Z</updated>
     
-    <content type="html"><![CDATA[<p>需求分析有三个步骤：创建人物角色，采集用户需求，将用户需求转化位功能需求。</p><a id="more"></a><h2 id="人物角色"><a href="#人物角色" class="headerlink" title="人物角色"></a>人物角色</h2><img src="/images/30.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 人物角色</center><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><img src="/images/31.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 用户需求</center><h2 id="产品需求"><a href="#产品需求" class="headerlink" title="产品需求"></a>产品需求</h2><h3 id="功能需求"><a href="#功能需求" class="headerlink" title="功能需求"></a>功能需求</h3><ul><li><p>股票数据库：包含A股、港股市场所有的股票，并及时更新。</p></li><li><p>图标数字：默认显示选中股票的股价（可选择关闭或显示涨跌幅）。</p></li><li><p>鼠标悬浮：默认显示列表中前5只股票的名称、价格和涨跌幅（可选择显示股票的数量）。</p></li><li><p>Popup页面：大盘行情、股票行情数据（名称、股价、涨跌幅、成交额、实时盈亏…）、股票走势图（均价成交量图+K线图）、股票详情外链、股票切换选项卡。</p></li><li><p>自选股页面：显示自选股行情信息；用户可以创建、删除自选股，并进行备注、标记、排序等操作。</p></li><li><p>提醒功能：在特定涨跌幅和价格时，用户可收到提醒。（默认关闭，用户可选择打开并设定数值）</p></li><li><p>实时盈亏功能：用户可输入买入价格和股数，于Popup和自选股页面展示实时盈亏。（默认关闭，用户输入数值则自动打开）</p></li><li><p>数据备份功能：用户可以导入、导出自选股数据。</p></li></ul><h3 id="体验需求"><a href="#体验需求" class="headerlink" title="体验需求"></a>体验需求</h3><ul><li><p>使用国内API和CDN，优化访问速度。</p></li><li><p>设计风格要简洁，通过颜色、字号等方式突出关键信息。</p></li><li><p>图片清晰度要高，文字要选择多数电脑可正常显示的字体，字号要合适。</p></li><li><p>股价一位数显示小数点后3位，两位数及以上显示小数点后2位。</p></li><li><p>功能入口和选项要明显，并提供适当的提示。</p></li><li><p>通过代码或名称查找股票时，应该有自动补全功能。</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>需求分析有三个步骤：创建人物角色，采集用户需求，将用户需求转化为产品需求。</p><a id="more"></a><h2 id="人物角色"><a href="#人物角色" class="headerlink" title="人物角色"></a>人物角色</h2><img src="/images/30.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 人物角色</center><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><img src="/images/31.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 用户需求</center><h2 id="产品需求"><a href="#产品需求" class="headerlink" title="产品需求"></a>产品需求</h2><h3 id="功能需求"><a href="#功能需求" class="headerlink" title="功能需求"></a>功能需求</h3><ul><li><p>股票数据库：包含A股、港股市场所有的股票，并及时更新。</p></li><li><p>图标数字：默认显示选中股票的股价（可选择关闭或显示涨跌幅）。</p></li><li><p>鼠标悬浮：默认显示列表中前5只股票的名称、价格和涨跌幅（可选择显示股票的数量）。</p></li><li><p>Popup页面：大盘行情、股票行情数据（名称、股价、涨跌幅、成交额、实时盈亏…）、股票走势图（均价成交量图+K线图）、股票详情外链、股票切换选项卡。</p></li><li><p>自选股页面：显示自选股行情信息；用户可以创建、删除自选股，并进行备注、标记、排序等操作。</p></li><li><p>提醒功能：在特定涨跌幅和价格时，用户可收到提醒。（默认关闭，用户可选择打开并设定数值）</p></li><li><p>实时盈亏功能：用户可输入买入价格和股数，于Popup和自选股页面展示实时盈亏。（默认关闭，用户输入数值则自动打开）</p></li><li><p>数据备份功能：用户可以导入、导出自选股数据。</p></li></ul><h3 id="体验需求"><a href="#体验需求" class="headerlink" title="体验需求"></a>体验需求</h3><ul><li><p>使用国内API和CDN，优化访问速度。</p></li><li><p>设计风格要简洁，通过颜色、字号等方式突出关键信息。</p></li><li><p>图片清晰度要高，文字要选择多数电脑可正常显示的字体，字号要合适。</p></li><li><p>股价一位数显示小数点后3位，两位数及以上显示小数点后2位。</p></li><li><p>功能入口和选项要明显，并提供适当的提示。</p></li><li><p>通过代码或名称查找股票时，应该有自动补全功能。</p></li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;需求分析有三个步骤：创建人物角色，采集用户需求，将用户需求转化位功能需求。&lt;/p&gt;
+      &lt;p&gt;需求分析有三个步骤：创建人物角色，采集用户需求，将用户需求转化为产品需求。&lt;/p&gt;
     
     </summary>
     
