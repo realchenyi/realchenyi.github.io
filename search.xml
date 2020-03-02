@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>从0开始打造Chrome插件（二）需求分析</title>
+      <link href="/2020/03/02/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
+      <url>/2020/03/02/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/</url>
+      
+        <content type="html"><![CDATA[<h2 id="目标市场"><a href="#目标市场" class="headerlink" title="目标市场"></a>目标市场</h2><p>使用Chrome内核浏览器，有插件使用习惯，关注股票行情的用户群体。</p><h2 id="人物角色"><a href="#人物角色" class="headerlink" title="人物角色"></a>人物角色</h2><img src="/images/30.png" width="80%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 人物角色</center><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><img src="/images/31.png" width="80%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 用户需求</center><h2 id="产品需求"><a href="#产品需求" class="headerlink" title="产品需求"></a>产品需求</h2><h3 id="功能需求"><a href="#功能需求" class="headerlink" title="功能需求"></a>功能需求</h3><ul><li><p>股票数据库：包含A股、港股市场所有的股票，并及时更新。</p></li><li><p>图标数字：默认显示选中股票的股价（可选择关闭或显示涨跌幅）。</p></li><li><p>鼠标悬浮：默认显示列表中前5只股票的名称、价格和涨跌幅（可选择显示股票的数量）。</p></li><li><p>Popup页面：大盘行情、股票行情数据（名称、股价、涨跌幅、成交额、实时盈亏…）、股票走势图（均价成交量图+K线图）、股票详情外链、股票切换选项卡。</p></li><li><p>自选股页面：显示自选股行情信息；用户可以创建、删除自选股，并进行备注、标记、排序等操作。</p></li><li><p>提醒功能：在特定涨跌幅和价格时，用户可收到提醒。（默认关闭，用户可选择打开并设定数值）</p></li><li><p>实时盈亏功能：用户可输入买入价格和股数，于Popup和自选股页面展示实时盈亏。（默认关闭，用户输入数值则自动打开）</p></li><li><p>数据备份功能：用户可以导入、导出自选股数据。</p></li></ul><h3 id="体验需求"><a href="#体验需求" class="headerlink" title="体验需求"></a>体验需求</h3><ul><li><p>使用国内API和CDN，优化访问速度。</p></li><li><p>设计风格要简洁，通过颜色、字号等方式突出关键信息。</p></li><li><p>图片清晰度要高，文字要选择多数电脑可正常显示的字体，字号要合适。</p></li><li><p>股价一位数显示小数点后3位，两位数及以上显示小数点后2位。</p></li><li><p>功能入口和选项要明显，并提供适当的提示。</p></li><li><p>通过代码或名称查找股票时，应该有自动补全功能。</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 产品 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 插件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>从0开始打造Chrome插件（一）机会评估</title>
       <link href="/2020/02/28/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%80%EF%BC%89%E6%9C%BA%E4%BC%9A%E8%AF%84%E4%BC%B0/"/>
       <url>/2020/02/28/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%80%EF%BC%89%E6%9C%BA%E4%BC%9A%E8%AF%84%E4%BC%B0/</url>
       
-        <content type="html"><![CDATA[<p>开展机会评估，是打造互联网产品的第一步。</p><a id="more"></a><h2 id="目标市场"><a href="#目标市场" class="headerlink" title="目标市场"></a>目标市场</h2><p>使用Chrome内核浏览器，关注股票行情的用户群体。</p><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><p>在使用浏览器工作时，便捷地获取股票行情。</p><h2 id="用户痛点"><a href="#用户痛点" class="headerlink" title="用户痛点"></a>用户痛点</h2><ul><li>用户查看股票行情，需要切换网页、应用或设备，操作繁琐且浪费时间。</li><li>部分用户不希望查看股票行情的行为，被他人所发现。</li><li>部分用户对股价变动感到焦虑，反复查看股票行情，注意力难以集中。</li></ul><h2 id="产品价值"><a href="#产品价值" class="headerlink" title="产品价值"></a>产品价值</h2><ul><li>用户点击插件图标，即可获取股票行情，操作便捷且节约时间。</li><li>用户将鼠标悬浮于插件图标，即可显示简略行情；鼠标离开则行情消失，避免被窥屏。</li><li>用户可选择在股价异动时接收提醒，减轻焦虑感，集中注意力。</li></ul><h2 id="竞争格局"><a href="#竞争格局" class="headerlink" title="竞争格局"></a>竞争格局</h2><ul><li>Chrome商店共有20多个股票行情插件。多数插件在定位、功能、交互、设计等方面都存在较大问题。</li><li>“股票提醒助手”是该领域的领先者。该插件定位清晰，功能完善，交互设计人性化，用户数量和好评度都在同类产品中遥遥领先。</li><li>根据用户反馈，“股票提醒助手”在数据全面程度、图标数字显示等方面存在不足。这是本产品可以寻求的突破口。</li></ul><h2 id="产品定位"><a href="#产品定位" class="headerlink" title="产品定位"></a>产品定位</h2><p>一款能够在工作间隙，快速查看股票行情的浏览器插件。</p><h2 id="产品名称"><a href="#产品名称" class="headerlink" title="产品名称"></a>产品名称</h2><p>快看股票</p><h2 id="关键指标"><a href="#关键指标" class="headerlink" title="关键指标"></a>关键指标</h2><ul><li>用户数量</li><li>用户黏性</li><li>用户评价</li></ul><h2 id="投放渠道"><a href="#投放渠道" class="headerlink" title="投放渠道"></a>投放渠道</h2><ul><li>浏览器应用商店（Chrome、360极速、猎豹…）</li><li>CRX安装包（项目官网、百度网盘…）</li></ul><h2 id="推广渠道"><a href="#推广渠道" class="headerlink" title="推广渠道"></a>推广渠道</h2><ul><li>分享给身边的目标用户。</li><li>到目标用户所在的网络社区宣传。</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>开展机会评估，是打造互联网产品的第一步。</p><a id="more"></a><h2 id="目标市场"><a href="#目标市场" class="headerlink" title="目标市场"></a>目标市场</h2><p>使用Chrome内核浏览器，有插件使用习惯，关注股票行情的用户群体。</p><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><p>在使用浏览器工作时，便捷地获取股票行情。</p><h2 id="用户痛点"><a href="#用户痛点" class="headerlink" title="用户痛点"></a>用户痛点</h2><ul><li><p>用户查看股票行情，需要切换网页、应用或设备，操作繁琐且浪费时间。</p></li><li><p>部分用户不希望查看股票行情的行为，被他人所发现。</p></li><li><p>部分用户对股价变动感到焦虑，反复查看股票行情，注意力难以集中。</p></li></ul><h2 id="产品价值"><a href="#产品价值" class="headerlink" title="产品价值"></a>产品价值</h2><ul><li><p>用户点击插件图标，即可获取股票行情，操作便捷且节约时间。</p></li><li><p>用户将鼠标悬浮于插件图标，即可显示简略行情；鼠标离开则行情消失，避免被窥屏。</p></li><li><p>用户可选择在股价异动时接收提醒，减轻焦虑感，集中注意力。</p></li></ul><h2 id="竞争格局"><a href="#竞争格局" class="headerlink" title="竞争格局"></a>竞争格局</h2><ul><li><p>Chrome商店共有20多个股票行情插件。多数插件在定位、功能、交互、设计等方面都存在较大问题。</p></li><li><p>“股票提醒助手”是该领域的领先者。该插件定位清晰，功能完善，交互设计人性化，用户数量和好评度都在同类产品中遥遥领先。</p></li><li><p>根据用户反馈，“股票提醒助手”在数据全面程度、图标数字显示等方面存在不足。这是本产品可以寻求的突破口。</p></li></ul><h2 id="产品定位"><a href="#产品定位" class="headerlink" title="产品定位"></a>产品定位</h2><p>一款能够在工作间隙，快速查看股票行情的浏览器插件。</p><h2 id="产品名称"><a href="#产品名称" class="headerlink" title="产品名称"></a>产品名称</h2><p>股票行情速览</p><h2 id="关键指标"><a href="#关键指标" class="headerlink" title="关键指标"></a>关键指标</h2><ul><li>用户数量</li><li>用户黏性</li><li>用户评价</li></ul><h2 id="投放渠道"><a href="#投放渠道" class="headerlink" title="投放渠道"></a>投放渠道</h2><ul><li>浏览器应用商店（Chrome、360极速、猎豹…）</li><li>CRX安装包（项目官网、百度网盘…）</li></ul><h2 id="推广渠道"><a href="#推广渠道" class="headerlink" title="推广渠道"></a>推广渠道</h2><ul><li>分享给身边的目标用户。</li><li>到目标用户所在的网络社区宣传。</li></ul>]]></content>
       
       
       <categories>
