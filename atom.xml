@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-02T14:08:29.253Z</updated>
+  <updated>2020-03-12T13:54:15.712Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从0开始打造Chrome插件（三）产品设计</title>
+    <link href="http://yoursite.com/2020/03/12/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%89%EF%BC%89%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://yoursite.com/2020/03/12/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%89%EF%BC%89%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/</id>
+    <published>2020-03-12T13:40:03.000Z</published>
+    <updated>2020-03-12T13:54:15.712Z</updated>
+    
+    <content type="html"><![CDATA[<p>绘制流程图和原型图，是产品设计的两个重要步骤。</p><a id="more"></a><h2 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h2><img src="/images/32.svg"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 页面流程图</center><h2 id="原型图"><a href="#原型图" class="headerlink" title="原型图"></a>原型图</h2><h3 id="股票列表"><a href="#股票列表" class="headerlink" title="股票列表"></a>股票列表</h3><img src="/images/33.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 股票列表原型</center><h3 id="股票详情"><a href="#股票详情" class="headerlink" title="股票详情"></a>股票详情</h3><img src="/images/34.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图3 股票详情原型</center><h3 id="自选管理"><a href="#自选管理" class="headerlink" title="自选管理"></a>自选管理</h3><img src="/images/35.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图4 自选管理详情</center><h3 id="数据备份"><a href="#数据备份" class="headerlink" title="数据备份"></a>数据备份</h3><img src="/images/36.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图5 数据备份原型</center><h3 id="用户帮助"><a href="#用户帮助" class="headerlink" title="用户帮助"></a>用户帮助</h3><img src="/images/37.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图6 用户帮助原型</center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;绘制流程图和原型图，是产品设计的两个重要步骤。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>从0开始打造Chrome插件（二）需求分析</title>
