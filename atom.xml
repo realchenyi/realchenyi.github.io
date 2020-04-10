@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-10T08:50:29.819Z</updated>
+  <updated>2020-04-10T12:36:01.471Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AMAC年报学习笔记（九）公募基金投资能力</title>
+    <link href="http://yoursite.com/2020/04/10/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B9%9D%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E8%83%BD%E5%8A%9B/"/>
+    <id>http://yoursite.com/2020/04/10/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B9%9D%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E8%83%BD%E5%8A%9B/</id>
+    <published>2020-04-10T09:06:51.000Z</published>
+    <updated>2020-04-10T12:36:01.471Z</updated>
+    
+    <content type="html"><![CDATA[<p>公募基金的投资能力，主要体现为在波动市场中的主动管理能力： 在牛市中获得与市场一致的投资回报，在熊市中有效管理市场下行风险。</p><a id="more"></a><p>5年滚动年化收益率，即在任一时点计算的过去5年平均年化收益率。通过比较公募基金和对应市场指数的5年滚动年化收益率，可以对公募基金的主动管理能力作出初步评价。</p><h2 id="主动型股票基金-vs-中证全指"><a href="#主动型股票基金-vs-中证全指" class="headerlink" title="主动型股票基金 vs 中证全指"></a>主动型股票基金 vs 中证全指</h2><p>总体来看，主动型股票基金的平均收益率高于中证全指。但近年来，两者间的差额有收窄趋势。2018年，在考虑费率因素的条件下，主动型股票基金没有为投资者带来超额收益率。</p><h2 id="主动型债券基金-vs-中债总财富"><a href="#主动型债券基金-vs-中债总财富" class="headerlink" title="主动型债券基金 vs 中债总财富"></a>主动型债券基金 vs 中债总财富</h2><p>长期以来，主动型债券基金的平均收益率始终高于中债总财富指数，这可能与两点原因有关：</p><ul><li>相对于股票交易，债券交易的圈子更小，机构投资者的优势更为明显。</li><li>债券基金普遍采取杠杆策略，放大了其投资收益率。</li></ul><h2 id="主动型混合基金-vs-50-中证全指-50-中债总财富"><a href="#主动型混合基金-vs-50-中证全指-50-中债总财富" class="headerlink" title="主动型混合基金 vs 50%中证全指+50%中债总财富"></a>主动型混合基金 vs 50%中证全指+50%中债总财富</h2><p>主动型混合基金的平均收益率，在多数情况下高于（50%中证全指+50%中债总财富），且两者之差波动较为剧烈。这可能与混合基金并非完全股债平衡，而是股票配置比例高于债券有关。</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>中国证券投资基金业协会：<a href="http://www.amac.org.cn/researchstatistics/publication/zgzqtzjjynb/202001/t20200102_5414.html" target="_blank" rel="noopener">《2019中国证券投资基金业年报》</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;公募基金的投资能力，主要体现为在波动市场中的主动管理能力： 在牛市中获得与市场一致的投资回报，在熊市中有效管理市场下行风险。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>AMAC年报学习笔记（八）基金销售和费率</title>
     <link href="http://yoursite.com/2020/04/09/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89%E5%9F%BA%E9%87%91%E9%94%80%E5%94%AE%E5%92%8C%E8%B4%B9%E7%8E%87/"/>
     <id>http://yoursite.com/2020/04/09/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89%E5%9F%BA%E9%87%91%E9%94%80%E5%94%AE%E5%92%8C%E8%B4%B9%E7%8E%87/</id>
     <published>2020-04-09T11:56:47.000Z</published>
-    <updated>2020-04-10T08:50:29.819Z</updated>
+    <updated>2020-04-10T09:08:29.416Z</updated>
     
     <content type="html"><![CDATA[<p>伴随着基金行业的发展，基金销售渠道变化显著，总体费率不断下降。</p><a id="more"></a><h2 id="销售渠道"><a href="#销售渠道" class="headerlink" title="销售渠道"></a>销售渠道</h2><p>近年来，基金公司直销逐渐成为基金销售的主要渠道，银行和券商代销比例不断下滑。此外，独立基金销售机构（如蚂蚁金服、天天基金）的销售份额，有明显的上升趋势。</p><img src="/images/41.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 基金认（申）购渠道占比</center><center style="font-size:14px;color:rgb(51,51,51,0.7)">资料来源：中国证券投资基金业协会</center><h2 id="基金费率（产品类型）"><a href="#基金费率（产品类型）" class="headerlink" title="基金费率（产品类型）"></a>基金费率（产品类型）</h2><p>根据产品类型的不同，可以将公募基金分为以下五类：股票基金、混合基金、债券基金、货币基金和QDII基金。</p><p>近年来，五类基金的管理费率、托管费率、销售服务费率、认购费率、申购费率均呈下滑趋势（除去债券基金的销售服务费率），赎回费率则有所上涨。</p><p>基金费率的总体下降，表明伴随着行业市场化水平的提高，投资者的投资成本有所下降。基金赎回费率的提升，表明基金公司更愿意募集稳定的长期资金。</p><h2 id="基金费率（投资策略）"><a href="#基金费率（投资策略）" class="headerlink" title="基金费率（投资策略）"></a>基金费率（投资策略）</h2><p>被动型基金的各项费率（管理费率、托管费率、销售服务费率、认购费率、申购费率、赎回费率），都要明显低于主动型基金。</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>中国证券投资基金业协会：<a href="http://www.amac.org.cn/researchstatistics/publication/zgzqtzjjynb/202001/t20200102_5414.html" target="_blank" rel="noopener">《2019中国证券投资基金业年报》</a></p>]]></content>
     
@@ -442,29 +465,6 @@
     <summary type="html">
     
       &lt;p&gt;互联网银行的发展，有其政治、经济、社会和技术背景。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
-    
-    
-      <category term="银行" scheme="http://yoursite.com/tags/%E9%93%B6%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>互联网银行行业分析（一）概念界定</title>
-    <link href="http://yoursite.com/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%A6%82%E5%BF%B5%E7%95%8C%E5%AE%9A/"/>
-    <id>http://yoursite.com/2020/02/15/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%A6%82%E5%BF%B5%E7%95%8C%E5%AE%9A/</id>
-    <published>2020-02-15T04:42:13.000Z</published>
-    <updated>2020-04-10T08:48:38.839Z</updated>
-    
-    <content type="html"><![CDATA[<p>信息技术的发展，带来了银行业的变革。金融信息化的进程中，自动取款机、网上银行、手机银行等革命性产品相继出现，网络逐步成为银行提供服务的主要渠道。招商银行2018年报显示，该行98.24%的零售业务和92.96%的批发业务是通过电子渠道完成的。</p><a id="more"></a>     <p>根据出现时间、主要特征、核心技术的不同，银行业引进信息技术的过程大致可以分为三个阶段：电子银行、网络银行、互联网银行。</p><table>   <tr>      <td>阶段</td>      <td>电子银行</td>      <td>网络银行</td>      <td>互联网银行</td>   </tr>   <tr>      <td>出现时间</td>      <td>1960年代</td>      <td>1990年代</td>      <td>21世纪</td>   </tr>   <tr>      <td>主要特征</td>      <td>金融电子化</td>      <td>金融网络化</td>      <td>金融智能化</td>   </tr>   <tr>      <td>核心技术</td>      <td>计算机技术</td>      <td>网络技术</td>      <td>大数据、云计算</td>   </tr>   <tr>      <td>代表成果</td>      <td>自动取款机</td>      <td>网上银行</td>      <td>互联网直营银行</td>   </tr></table><center style="font-size:14px;color:rgb(51,51,51,0.7)">表1 银行业引入信息技术的三个阶段</center><p>Web2.0时代，用户创造内容（UGC）为互联网平台提供了大量数据。互联网银行通过数据挖掘，进行用户画像和风险评估，从而提供精度高、成本低、风险小的线上金融服务。传统银行的网络分支和无线下网点的互联网直营银行均提供此类金融服务，本系列以后者为主要分析对象。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;信息技术的发展，带来了银行业的变革。金融信息化的进程中，自动取款机、网上银行、手机银行等革命性产品相继出现，网络逐步成为银行提供服务的主要渠道。招商银行2018年报显示，该行98.24%的零售业务和92.96%的批发业务是通过电子渠道完成的。&lt;/p&gt;
     
     </summary>
     
