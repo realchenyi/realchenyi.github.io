@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>互金产品101</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-30T00:36:59.845Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>CY</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AMAC年报学习笔记（九）公募基金投资能力</title>
+    <link href="http://yoursite.com/2020/04/11/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B9%9D%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E8%83%BD%E5%8A%9B/"/>
+    <id>http://yoursite.com/2020/04/11/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B9%9D%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E8%83%BD%E5%8A%9B/</id>
+    <published>2020-04-11T09:06:51.000Z</published>
+    <updated>2020-04-30T00:36:59.845Z</updated>
+    
+    <content type="html"><![CDATA[<p>公募基金的投资能力，主要体现为在波动市场中的主动管理能力： 在牛市中获得与市场一致的投资回报，在熊市中有效管理市场下行风险。</p><a id="more"></a><p>5年滚动年化收益率，即在任一时点计算的过去5年平均年化收益率。通过比较公募基金和对应市场指数的5年滚动年化收益率，可以对公募基金的主动管理能力作出初步评价。</p><h2 id="主动型股票基金-vs-中证全指"><a href="#主动型股票基金-vs-中证全指" class="headerlink" title="主动型股票基金 vs 中证全指"></a>主动型股票基金 vs 中证全指</h2><p>总体来看，主动型股票基金的平均收益率高于中证全指。但近年来，两者间的差额有收窄趋势。2018年，在考虑费率因素的条件下，主动型股票基金没有为投资者带来超额收益率。</p><h2 id="主动型债券基金-vs-中债总财富"><a href="#主动型债券基金-vs-中债总财富" class="headerlink" title="主动型债券基金 vs 中债总财富"></a>主动型债券基金 vs 中债总财富</h2><p>长期以来，主动型债券基金的平均收益率始终高于中债总财富指数，这可能与两点原因有关：</p><ul><li>相对于股票交易，债券交易的圈子更小，机构投资者的优势更为明显。</li><li>债券基金普遍采取杠杆策略，放大了其投资收益率。</li></ul><h2 id="主动型混合基金-vs-50-中证全指-50-中债总财富"><a href="#主动型混合基金-vs-50-中证全指-50-中债总财富" class="headerlink" title="主动型混合基金 vs 50%中证全指+50%中债总财富"></a>主动型混合基金 vs 50%中证全指+50%中债总财富</h2><p>主动型混合基金的平均收益率，在多数情况下高于（50%中证全指+50%中债总财富），且两者之差波动较为剧烈。这可能与混合基金并非完全股债平衡，而是股票配置比例高于债券有关。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;公募基金的投资能力，主要体现为在波动市场中的主动管理能力： 在牛市中获得与市场一致的投资回报，在熊市中有效管理市场下行风险。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（八）基金销售和费率</title>
+    <link href="http://yoursite.com/2020/04/10/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89%E5%9F%BA%E9%87%91%E9%94%80%E5%94%AE%E5%92%8C%E8%B4%B9%E7%8E%87/"/>
+    <id>http://yoursite.com/2020/04/10/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89%E5%9F%BA%E9%87%91%E9%94%80%E5%94%AE%E5%92%8C%E8%B4%B9%E7%8E%87/</id>
+    <published>2020-04-10T11:56:47.000Z</published>
+    <updated>2020-04-30T00:36:53.906Z</updated>
+    
+    <content type="html"><![CDATA[<p>伴随着基金行业的发展，基金销售渠道变化显著，总体费率不断下降。</p><a id="more"></a><h2 id="销售渠道"><a href="#销售渠道" class="headerlink" title="销售渠道"></a>销售渠道</h2><p>近年来，基金公司直销逐渐成为基金销售的主要渠道，银行和券商代销比例不断下滑。此外，独立基金销售机构（如蚂蚁金服、天天基金）的销售份额，有明显的上升趋势。</p><img src="/images/41.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 基金认（申）购渠道占比</center><center style="font-size:14px;color:rgb(51,51,51,0.7)">资料来源：中国证券投资基金业协会</center><h2 id="基金费率（产品类型）"><a href="#基金费率（产品类型）" class="headerlink" title="基金费率（产品类型）"></a>基金费率（产品类型）</h2><p>根据产品类型的不同，可以将公募基金分为以下五类：股票基金、混合基金、债券基金、货币基金和QDII基金。</p><p>近年来，五类基金的管理费率、托管费率、销售服务费率、认购费率、申购费率均呈下滑趋势（除去债券基金的销售服务费率），赎回费率则有所上涨。</p><p>基金费率的总体下降，表明伴随着行业市场化水平的提高，投资者的投资成本有所下降。基金赎回费率的提升，表明基金公司更愿意募集稳定的长期资金。</p><h2 id="基金费率（投资策略）"><a href="#基金费率（投资策略）" class="headerlink" title="基金费率（投资策略）"></a>基金费率（投资策略）</h2><p>被动型基金的各项费率（管理费率、托管费率、销售服务费率、认购费率、申购费率、赎回费率），都要明显低于主动型基金。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;伴随着基金行业的发展，基金销售渠道变化显著，总体费率不断下降。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（七）QDII基金</title>
+    <link href="http://yoursite.com/2020/04/09/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%83%EF%BC%89QDII%E5%9F%BA%E9%87%91/"/>
+    <id>http://yoursite.com/2020/04/09/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%83%EF%BC%89QDII%E5%9F%BA%E9%87%91/</id>
+    <published>2020-04-09T02:15:42.000Z</published>
+    <updated>2020-04-30T00:36:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>截至2018年末，QDII基金资产净值为706亿元，较2017年末减少22.8%。</p><a id="more"></a><h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p>QDII基金，即合格境内机构投资者基金，可在境内募集资金，进行境外证券投资管理。QDII基金主要有两大作用：</p><ul><li>在人民币资本项目未完全开放的背景下，为投资者提供境外投资机会。</li><li>与国内证券投资相对冲，为投资者降低投资组合的风险。</li></ul><h2 id="资金流动"><a href="#资金流动" class="headerlink" title="资金流动"></a>资金流动</h2><p>QDII基金以权益类投资为主，投资地域集中于香港（36%）和美国（21%）。因此，QDII基金的资金流动，受香港和美国股市的影响较大。数据表明，QDII基金的资金净流入比例，与恒生、标普等股指有较强的相关性。</p><h2 id="投资者持有周转率"><a href="#投资者持有周转率" class="headerlink" title="投资者持有周转率"></a>投资者持有周转率</h2><p>QDII基金的投资者持有周转率，长期在20%以下，为各类型基金中最低。这一方面反映了QDII基金投资者的稳定性，另一方面反映了投资者对QDII基金认申赎热情不高。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;截至2018年末，QDII基金资产净值为706亿元，较2017年末减少22.8%。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（六）货币基金</title>
+    <link href="http://yoursite.com/2020/04/08/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91/"/>
+    <id>http://yoursite.com/2020/04/08/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91/</id>
+    <published>2020-04-08T14:18:59.000Z</published>
+    <updated>2020-04-30T00:36:40.160Z</updated>
+    
+    <content type="html"><![CDATA[<p>2014年以来，货币基金的数量、份额和资产净值均显著增加，目前总资产净值已占到公募基金的五成以上。</p><a id="more"></a><h2 id="投资品种"><a href="#投资品种" class="headerlink" title="投资品种"></a>投资品种</h2><p>货币基金主要投资短期货币工具（期限一般小于1年），常见的投资品种如下：</p><ul><li>国债</li><li>央行票据</li><li>商业票据</li><li>同业存款</li><li>银行存单</li></ul><h2 id="发展原因"><a href="#发展原因" class="headerlink" title="发展原因"></a>发展原因</h2><ul><li>监管原因：政府监管放松，利率走向市场化，为货币基金提供了发展空间。</li><li>技术原因：互联网技术的发展，使得货币基金的申购、赎回更加便捷，清算效率更高。</li><li>自身原因：货币基金具有投资门槛低、申赎方便、风险可控、流动性好等优势。</li><li>直接原因：国民级平台的流量导入（余额宝—支付宝，零钱通—微信），为货币基金提供了大量潜在用户。</li></ul><h2 id="资金流动"><a href="#资金流动" class="headerlink" title="资金流动"></a>资金流动</h2><p>货币基金的资金净流入比例，波动性较大，且和中证国债指数涨跌幅具有较强的相关性。这表明投资者对于货币基金的收益率较为敏感。</p><h2 id="投资者持有周转率"><a href="#投资者持有周转率" class="headerlink" title="投资者持有周转率"></a>投资者持有周转率</h2><p>货币基金的投资者持有周转率，显著高于其它类型的公募基金，常年超过200%。这与货币基金的功能定位密切相关：满足机构投资者现金类资产配置需求，为个人投资者提供高流动性的理财工具。</p><h2 id="投资收益率"><a href="#投资收益率" class="headerlink" title="投资收益率"></a>投资收益率</h2><p>货币基金的投资收益率，主要受到市场资金充裕度和无风险利率的影响。通常而言，市场资金越紧张，无风险利率越高，货币基金的投资收益率越高。</p><h2 id="平均剩余期限"><a href="#平均剩余期限" class="headerlink" title="平均剩余期限"></a>平均剩余期限</h2><p>货币基金的平均剩余期限，就是其持有各项资产剩余期限的加权平均。通常而言，货币基金的平均剩余期限在50 ~ 90天之间。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2014年以来，货币基金的数量、份额和资产净值均显著增加，目前总资产净值已占到公募基金的五成以上。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（五）债券基金</title>
+    <link href="http://yoursite.com/2020/04/07/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91/"/>
+    <id>http://yoursite.com/2020/04/07/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91/</id>
+    <published>2020-04-07T09:05:26.000Z</published>
+    <updated>2020-04-30T00:36:33.366Z</updated>
+    
+    <content type="html"><![CDATA[<p>截至2018年末，开放式债券基金资产净值2.26万亿元，较2017年末增长54%。</p><a id="more"></a><h2 id="投资收益来源"><a href="#投资收益来源" class="headerlink" title="投资收益来源"></a>投资收益来源</h2><ul><li>利息：持有债券到期，获得利息收入</li><li>价差：利用价格波动，高买低卖，获得价差</li><li>杠杆：通过加杠杆，放大投资收益</li></ul><h2 id="资金流动"><a href="#资金流动" class="headerlink" title="资金流动"></a>资金流动</h2><p>债券基金的资金流动，一方面随着债券市场的变化而变化，另一方面也会受到股票市场的影响。当股票市场低迷，投资者避险情绪提升时，往往会有大量资金流入债券基金。</p><h2 id="投资者持有周转率"><a href="#投资者持有周转率" class="headerlink" title="投资者持有周转率"></a>投资者持有周转率</h2><p>近年来，债券基金投资者持有周转率有下降趋势，2018年Q4该指标为46%。相对于个人投资者，机构投资者的认申赎操作更频繁，持有周转率更高。</p><h2 id="基金杠杆率"><a href="#基金杠杆率" class="headerlink" title="基金杠杆率"></a>基金杠杆率</h2><p>债券基金普遍会通过质押部分债券，融取更多资金。加杠杆一方面能够提升基金收益率，另一方面也会放大基金亏损的风险。因此，证监会要求债券基金的杠杆率不得高于140%。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;截至2018年末，开放式债券基金资产净值2.26万亿元，较2017年末增长54%。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（四）权益型基金</title>
+    <link href="http://yoursite.com/2020/04/06/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%9B%9B%EF%BC%89%E6%9D%83%E7%9B%8A%E5%9E%8B%E5%9F%BA%E9%87%91/"/>
+    <id>http://yoursite.com/2020/04/06/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%9B%9B%EF%BC%89%E6%9D%83%E7%9B%8A%E5%9E%8B%E5%9F%BA%E9%87%91/</id>
+    <published>2020-04-06T02:29:46.000Z</published>
+    <updated>2020-04-30T00:36:26.132Z</updated>
+    
+    <content type="html"><![CDATA[<p>截至2018年末，开放式权益型基金资产净值2.18万亿元，其中股票基金资产净值8245亿元，混合基金资产净值1.36万亿元。</p><a id="more"></a><h2 id="资金流动"><a href="#资金流动" class="headerlink" title="资金流动"></a>资金流动</h2><p>资金净流入比例 = 当期净流入资金/当期平均资产净值</p><p>权益型基金的资金流动，会随A股市场的涨跌而变化。牛市周期，基金份额和资产净值增加，净流入比例为正；熊市周期，基金份额和资产净值减少，净流入比例为负。</p><h2 id="投资者持有周转率"><a href="#投资者持有周转率" class="headerlink" title="投资者持有周转率"></a>投资者持有周转率</h2><p>投资者持有周转率 = （认购+申购+赎回金额）/当期平均资产净值</p><p>投资者持有周转率反映了投资者对于所持基金的黏性。股市冲顶前后，认申赎金额暴增，投资者持有周转率较高（如2015年Q3超过200%）；而在其它时间段，认申赎金额相对稳定，投资者持有周转率保持在50%以下。</p><h2 id="投资行业偏好"><a href="#投资行业偏好" class="headerlink" title="投资行业偏好"></a>投资行业偏好</h2><p>行业偏好度 = （基金投资某行业市值/基金投资股票总市值）/（某行业流通市值/市场总流通市值）</p><ul><li>低配：行业偏好度小于80%</li><li>标配：行业偏好度在80% ~ 120%之间</li><li>超配：行业偏好度大于120%</li></ul><p>截至2018年末，在前九大市值行业中，信息服务业、批发与零售业、房地产业和制造业处于超配状态，其余行业被低配。</p><img src="/images/40.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 债券类资产配置</center><center style="font-size:14px;color:rgb(51,51,51,0.7)">资料来源：中国银河证券基金研究中心</center><h2 id="基金持仓换手率"><a href="#基金持仓换手率" class="headerlink" title="基金持仓换手率"></a>基金持仓换手率</h2><p>基金持仓换手率 = （买入股票总金额+卖出股票总金额）/当期基金日均持仓市值</p><p>公募基金持仓换手率受到多种因素的影响：</p><ul><li>投资者申赎资金</li><li>公募基金投资风格</li><li>股票市场交易活跃度</li><li>新设立股票基金规模</li></ul><p>近年来，公募基金在主板、中小板和创业板的换手率均呈现下降趋势。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;截至2018年末，开放式权益型基金资产净值2.18万亿元，其中股票基金资产净值8245亿元，混合基金资产净值1.36万亿元。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（三）公募基金资产配置</title>
+    <link href="http://yoursite.com/2020/04/05/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE/"/>
+    <id>http://yoursite.com/2020/04/05/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE/</id>
+    <published>2020-04-05T02:26:59.000Z</published>
+    <updated>2020-04-30T00:36:14.165Z</updated>
+    
+    <content type="html"><![CDATA[<p>截至2018年末，中国公募基金总资产达到14万亿元，具体构成如下：</p><a id="more"></a><ul><li>现金类（6.97万亿元，49.4%）</li><li>债券类（3.59万亿元，25.5%）</li><li>收益权类（1.90万亿元，13.5%）</li><li>股票（1.43万亿元，10%）</li><li>其它（0.21万亿元，2%）</li></ul><h2 id="资产集中度"><a href="#资产集中度" class="headerlink" title="资产集中度"></a>资产集中度</h2><p>总体来看，公募基金资产集中度较高，业界前二十占比超过七成。具体而言，现金类和股票类资产最为集中，债券类资产相对分散。</p><table>   <tr>      <td></td>      <td>现金类资产</td>      <td>债券类资产</td>      <td>股票类资产</td>   </tr>   <tr>      <td>前五家</td>      <td>32.3%</td>      <td>23.6%</td>      <td>31.8%</td>   </tr>   <tr>      <td>前十家</td>      <td>51.4%</td>      <td>40.8%</td>      <td>51.0%</td>   </tr>   <tr>      <td>前二十家</td>      <td>73.9%</td>      <td>62.3%</td>      <td>74.6%</td>   </tr></table><center style="font-size:14px;color:rgb(51,51,51,0.7)">表1 2018年末公募基金三类资产集中度</center><h2 id="债券类资产配置"><a href="#债券类资产配置" class="headerlink" title="债券类资产配置"></a>债券类资产配置</h2><p>金融债券、企业债券、中期票据、可转债、国债和央行票据，是债券类基金的主要配置品种。</p><p>2008年-2014年，由于收益率较高，企业债券受到公募基金追捧，配置比例一度达到64.1%。2014年后，随着宏观经济下行，企业债违约风险开始显现，其配置比例不断下滑。在这段时间，金融债券凭借较低的风险和较好的流动性，成为基金配置最高券种。</p><p>2011年，证监会发布公告，将中期票据归入固定收益类品种，纳入公募基金的投资范围。此后，公募基金中期票据的配置比例稳步上升。</p><p>2008-2010年，公募基金可转债的配置比例迅速上升，一度接近20%。2010年后，由于市场投机情绪强、债券价格波动大等因素，公募基金逐渐减少了对于可转债的投资。</p><p>国债和央行票据曾经是债券类资产的重要部分，2008年占比达到41%。但由于收益率低等因素，其配置比例不断下滑，目前已不是公募基金的主要配置品种。</p><img src="/images/39.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 债券类资产配置</center><center style="font-size:14px;color:rgb(51,51,51,0.7)">资料来源：中国银河证券基金研究中心</center><h2 id="股票类资产配置"><a href="#股票类资产配置" class="headerlink" title="股票类资产配置"></a>股票类资产配置</h2><p>近年来，公募基金持股向指数化、工具化方向演进。在主板、中小板和创业板中，相对于主动基金，被动基金的持股比例均不断上升。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;截至2018年末，中国公募基金总资产达到14万亿元，具体构成如下：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（二）公募基金规模和结构</title>
+    <link href="http://yoursite.com/2020/04/04/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E8%A7%84%E6%A8%A1%E5%92%8C%E7%BB%93%E6%9E%84/"/>
+    <id>http://yoursite.com/2020/04/04/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E8%A7%84%E6%A8%A1%E5%92%8C%E7%BB%93%E6%9E%84/</id>
+    <published>2020-04-04T02:39:07.000Z</published>
+    <updated>2020-04-30T00:36:06.510Z</updated>
+    
+    <content type="html"><![CDATA[<p>2012-2018年，中国公募基金数量由1000余家增加到5000余家，年均净流入额超过万亿元，总规模以年均29%的速度迅速增长，日益成为居民财富保值增值和企业资产配置的重要渠道。</p><a id="more"></a><h2 id="基金类型"><a href="#基金类型" class="headerlink" title="基金类型"></a>基金类型</h2><p>根据基金是否可以赎回，公募基金可以分为开放式基金和封闭式基金。由于流动性、透明度等方面的优势，开放式基金吸引力较强，占据了公募基金资产净值的93.1%（中国证券投资基金业协会，2018）。</p><p>根据投资品种的不同，公募基金可以分为权益型基金（股票基金+混合基金）、货币基金、债券基金和QDII基金。近年来（2008-2018），各类型基金的资产净值均有一定增长。从比例上看，货币基金占比不断上升，权益型基金和债券基金伴随市场波动此消彼长，QDII基金占比持续降低。</p><h2 id="开放式基金投资者账户"><a href="#开放式基金投资者账户" class="headerlink" title="开放式基金投资者账户"></a>开放式基金投资者账户</h2><p>截至2018年末，基金有效账户数超过6亿户，大部分为个人账户，其中仅12.57万户为机构账户。2012年到2018年，从基金份额来看，机构投资者持有比例不断上升，由29%增至49%；从账户平均持有基金份额来看，个人账户由22.56万元/户降至0.95万元/户，机构账户由1407万元/户增至4441万元/户。</p><h2 id="资金净流动"><a href="#资金净流动" class="headerlink" title="资金净流动"></a>资金净流动</h2><p>资金净流动 = 认购金额 + 申购金额 - 赎回金额</p><p>近年来，公募基金长期保持资金净流入。2014、2015、2017年，货币基金大幅净流入；2015年，非货币基金净流入金额超过万亿。</p><h2 id="ETF和LOF"><a href="#ETF和LOF" class="headerlink" title="ETF和LOF"></a>ETF和LOF</h2><p>交易所开放式指数基金（ETF）是一种在交易所上市交易、以选定指数包含的成分证券为投资对象的开放式基金。上市开放式基金（LOF）是一种既可以在场外申购、赎回，也可以在场内交易、申购、赎回的开放式基金。</p><p>ETF和LOF都具有开放性申购、赎回和场内交易的特点，但两者存在以下区别：</p><table>   <tr>      <td></td>      <td>ETF</td>      <td>LOF</td>   </tr>   <tr>      <td>申购、赎回标的</td>      <td>基金份额和一篮子证券</td>      <td>基金份额和现金</td>   </tr>   <tr>      <td>申购、赎回场所</td>      <td>交易所</td>      <td>交易所或代销网点</td>   </tr>   <tr>      <td>申购、赎回限制</td>      <td>资金达到一定规模</td>      <td>无特别要求</td>   </tr>   <tr>      <td>投资策略</td>      <td>被动式投资</td>      <td>被动或主动式投资</td>   </tr></table><center style="font-size:14px;color:rgb(51,51,51,0.7)">表1 ETF和LOF区别</center><h2 id="FOF"><a href="#FOF" class="headerlink" title="FOF"></a>FOF</h2><p>基金中基金（FOF），是指以其它基金为投资对象的基金。公募FOF是指将80%以上资产投资于公募基金份额的基金。</p><p>早期，FOF主要由私募、券商、银行、信托等机构发起。2016年9月，中国证监会发布《公开募集证券投资基金运作指引第2号——基金中基金指引》，为公募基金发展FOF业务设定了基础框架，公募FOF随之诞生。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2012-2018年，中国公募基金数量由1000余家增加到5000余家，年均净流入额超过万亿元，总规模以年均29%的速度迅速增长，日益成为居民财富保值增值和企业资产配置的重要渠道。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMAC年报学习笔记（一）资产管理业规模和结构</title>
+    <link href="http://yoursite.com/2020/04/03/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%92%8C%E7%BB%93%E6%9E%84/"/>
+    <id>http://yoursite.com/2020/04/03/AMAC%E5%B9%B4%E6%8A%A5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%92%8C%E7%BB%93%E6%9E%84/</id>
+    <published>2020-04-03T12:49:53.000Z</published>
+    <updated>2020-04-30T00:35:57.026Z</updated>
+    
+    <content type="html"><![CDATA[<p>中国资管行业已经初具规模，但与成熟市场仍有较大差距。在该行业中，公募基金和非公募资管业务是重要组成部分，占据了总资产规模的半壁江山。</p><a id="more"></a><h2 id="资管行业概览"><a href="#资管行业概览" class="headerlink" title="资管行业概览"></a>资管行业概览</h2><p>截至2018年底，中国资产管理规模为95.62万亿元，具体构成如下：</p><ul><li>非公募资产管理计划（24.77万亿元，25.9%）</li><li>商业银行理财产品（22.04万亿元，23.0%）</li><li>信托公司信托计划（18.94万亿元，19.8%）</li><li>公募基金（13.03万亿元，13.6%）</li><li>私募基金（12.71万亿元，13.3%）</li><li>保险公司资管（4.28万亿元，4.5%）</li></ul><h2 id="公募基金概览"><a href="#公募基金概览" class="headerlink" title="公募基金概览"></a>公募基金概览</h2><p>截至2018年底，中国公募基金资产规模为13.03万亿元，相当于当年GDP总量的14.5%，年末股市流通市值的36.8%。</p><p>中国公募基金的资产规模，依然有很大的提高空间。中国共同基金（开放式基金）资产规模排名世界第8，占全球共同基金总规模的比重为3.8%，与中国世界排名第2的经济总量不相适应。</p><p>截至2019年底，中国证监会公示公募基金管理机构145家，具体构成如下：</p><h3 id="机构类型"><a href="#机构类型" class="headerlink" title="机构类型"></a>机构类型</h3><ul><li>基金管理公司130家（如天弘基金、易方达基金）</li><li>券商+券商资管13家（如中银国际证券、华泰证券资管）</li><li>保险资管2家（泰康资管、人保资管）</li></ul><h3 id="股东背景"><a href="#股东背景" class="headerlink" title="股东背景"></a>股东背景</h3><ul><li>券商系66家（如易方达基金——广发证券）</li><li>信托系24家（如上投摩根基金——上海国际信托）</li><li>个人系16家（如东方阿尔法基金——刘明）</li><li>银行系15家（如中银基金——中国银行）</li><li>保险系6家（如国联安基金——太平洋资产管理）</li><li>私募系3家（如弘毅远方基金——弘毅投资）</li><li>其它15家 （如天弘基金——蚂蚁金服）</li></ul><h3 id="地区分布"><a href="#地区分布" class="headerlink" title="地区分布"></a>地区分布</h3><ul><li>上海65家</li><li>深圳32家</li><li>北京23家</li><li>其它25家</li></ul><h2 id="非公募资管业务概览"><a href="#非公募资管业务概览" class="headerlink" title="非公募资管业务概览"></a>非公募资管业务概览</h2><p>截至2018年底，中国各类非公募资管业务总规模为37.48万亿元，相当于当年GDP总量的41.6%，年末股市流通市值的105.9%。</p><p>根据机构类型的不同，可以分为以下几类：</p><ul><li>证券及其子公司私募资管（13.36万亿元，35.9%）</li><li>私募股权投资基金（7.80万亿元，21.0%）</li><li>基金子公司特定客户资管计划（5.25万亿元，14.1%）</li><li>基金公司普通专户（4.37万亿元，11.7%）</li><li>私募证券投资基金（2.14万亿元，5.7%）</li><li>基金公司管理养老金（1.4万亿元，3.8%）</li><li>其它私募基金（2.90万亿元，7.7%）</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中国资管行业已经初具规模，但与成熟市场仍有较大差距。在该行业中，公募基金和非公募资管业务是重要组成部分，占据了总资产规模的半壁江山。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="基金" scheme="http://yoursite.com/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从0开始打造Chrome插件（四）最终产品</title>
+    <link href="http://yoursite.com/2020/03/26/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E5%9B%9B%EF%BC%89%E6%9C%80%E7%BB%88%E4%BA%A7%E5%93%81/"/>
+    <id>http://yoursite.com/2020/03/26/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E5%9B%9B%EF%BC%89%E6%9C%80%E7%BB%88%E4%BA%A7%E5%93%81/</id>
+    <published>2020-03-26T13:35:57.000Z</published>
+    <updated>2020-04-22T00:50:22.765Z</updated>
+    
+    <content type="html"><![CDATA[<p>经过一周的紧张开发，我取得了两大成果：东半球倒数第二差的股票行情插件、 21世纪最混乱的JavaScript代码。</p><a id="more"></a><h2 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h2><p>一款简<del>陋</del>洁的Chrome浏览器插件，方便您在工作娱乐之余查看股票行情。</p><img src="/images/38.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 产品截图</center><h2 id="浏览器支持"><a href="#浏览器支持" class="headerlink" title="浏览器支持"></a>浏览器支持</h2><ul><li>完美支持：Chrome浏览器</li><li>兼容支持：搜狗、QQ、360极速等Chromium内核浏览器</li><li>暂不支持：IE、Edge、火狐等其它内核浏览器</li></ul><h2 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h2><p>下述方法以Chrome浏览器为例，其它Chromium内核浏览器与之类似。</p><ul><li>下载文件并解压。（链接：<a href="https://pan.baidu.com/s/1FfqBA6Em5K4LdxX4TMzreg" target="_blank" rel="noopener">https://pan.baidu.com/s/1FfqBA6Em5K4LdxX4TMzreg</a> 提取码：h41v）</li><li>在地址栏输入<code>chrome://extensions</code>，打开右上角的<code>开发者模式</code>开关。</li><li>点击左上角<code>加载已解压的拓展程序</code>，选择刚刚解压的文件夹。</li><li>弹出提示框后点击<code>添加拓展程序</code>，插件安装完成，图标出现在地址栏右侧，点击即可使用。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;经过一周的紧张开发，我取得了两大成果：东半球倒数第二差的股票行情插件、 21世纪最混乱的JavaScript代码。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从0开始打造Chrome插件（三）产品设计</title>
+    <link href="http://yoursite.com/2020/03/15/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%89%EF%BC%89%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://yoursite.com/2020/03/15/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%89%EF%BC%89%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/</id>
+    <published>2020-03-15T13:40:03.000Z</published>
+    <updated>2020-04-22T00:50:18.045Z</updated>
+    
+    <content type="html"><![CDATA[<p>绘制流程图和原型图，是产品设计的两个重要步骤。</p><a id="more"></a><h2 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h2><img src="/images/32.svg"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 页面流程图</center><h2 id="原型图"><a href="#原型图" class="headerlink" title="原型图"></a>原型图</h2><h3 id="股票列表"><a href="#股票列表" class="headerlink" title="股票列表"></a>股票列表</h3><img src="/images/33.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 股票列表原型</center><h3 id="股票详情"><a href="#股票详情" class="headerlink" title="股票详情"></a>股票详情</h3><img src="/images/34.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图3 股票详情原型</center><h3 id="自选管理"><a href="#自选管理" class="headerlink" title="自选管理"></a>自选管理</h3><img src="/images/35.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图4 自选管理原型</center><h3 id="数据备份"><a href="#数据备份" class="headerlink" title="数据备份"></a>数据备份</h3><img src="/images/36.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图5 数据备份原型</center><h3 id="用户帮助"><a href="#用户帮助" class="headerlink" title="用户帮助"></a>用户帮助</h3><img src="/images/37.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图6 用户帮助原型</center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;绘制流程图和原型图，是产品设计的两个重要步骤。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从0开始打造Chrome插件（二）需求分析</title>
+    <link href="http://yoursite.com/2020/03/10/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
+    <id>http://yoursite.com/2020/03/10/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/</id>
+    <published>2020-03-10T13:35:34.000Z</published>
+    <updated>2020-04-22T00:50:15.160Z</updated>
+    
+    <content type="html"><![CDATA[<p>需求分析有三个步骤：创建人物角色，采集用户需求，将用户需求转化为产品需求。</p><a id="more"></a><h2 id="人物角色"><a href="#人物角色" class="headerlink" title="人物角色"></a>人物角色</h2><img src="/images/30.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 人物角色</center><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><img src="/images/31.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 用户需求</center><h2 id="产品需求"><a href="#产品需求" class="headerlink" title="产品需求"></a>产品需求</h2><h3 id="功能需求"><a href="#功能需求" class="headerlink" title="功能需求"></a>功能需求</h3><ul><li>股票数据库：包含A股、港股市场所有的股票，并及时更新。</li><li>图标数字：默认显示选中股票的股价（可选择关闭或显示涨跌幅）。</li><li>鼠标悬浮：默认显示列表中前5只股票的名称、价格和涨跌幅（可选择显示股票的数量）。</li><li>Popup页面：大盘行情、股票行情数据（名称、股价、涨跌幅、成交额、实时盈亏…）、股票走势图（均价成交量图+K线图）、股票详情外链、股票切换选项卡。</li><li>自选股页面：显示自选股行情信息；用户可以创建、删除自选股，并进行备注、标记、排序等操作。</li><li>提醒功能：在特定涨跌幅和价格时，用户可收到提醒。（默认关闭，用户可选择打开并设定数值）</li><li>实时盈亏功能：用户可输入买入价格和股数，于Popup和自选股页面展示实时盈亏。（默认关闭，用户输入数值则自动打开）</li><li>数据备份功能：用户可以导入、导出自选股数据。</li></ul><h3 id="体验需求"><a href="#体验需求" class="headerlink" title="体验需求"></a>体验需求</h3><ul><li>使用国内API和CDN，优化访问速度。</li><li>设计风格要简洁，通过颜色、字号等方式突出关键信息。</li><li>图片清晰度要高，文字要选择多数电脑可正常显示的字体，字号要合适。</li><li>股价一位数显示小数点后3位，两位数及以上显示小数点后2位。</li><li>功能入口和选项要明显，并提供适当的提示。</li><li>通过代码或名称查找股票时，应该有自动补全功能。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;需求分析有三个步骤：创建人物角色，采集用户需求，将用户需求转化为产品需求。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从0开始打造Chrome插件（一）机会评估</title>
+    <link href="http://yoursite.com/2020/03/08/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%80%EF%BC%89%E6%9C%BA%E4%BC%9A%E8%AF%84%E4%BC%B0/"/>
+    <id>http://yoursite.com/2020/03/08/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0Chrome%E6%8F%92%E4%BB%B6%EF%BC%88%E4%B8%80%EF%BC%89%E6%9C%BA%E4%BC%9A%E8%AF%84%E4%BC%B0/</id>
+    <published>2020-03-08T11:48:31.000Z</published>
+    <updated>2020-04-22T00:50:11.855Z</updated>
+    
+    <content type="html"><![CDATA[<p>开展机会评估，是打造互联网产品的第一步。</p><a id="more"></a><h2 id="目标市场"><a href="#目标市场" class="headerlink" title="目标市场"></a>目标市场</h2><p>使用Chrome内核浏览器，有插件使用习惯，关注股票行情的用户群体。</p><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><p>在使用浏览器工作时，便捷地获取股票行情。</p><h2 id="用户痛点"><a href="#用户痛点" class="headerlink" title="用户痛点"></a>用户痛点</h2><ul><li>用户查看股票行情，需要切换网页、应用或设备，操作繁琐且浪费时间。</li><li>部分用户不希望查看股票行情的行为，被他人所发现。</li><li>部分用户对股价变动感到焦虑，反复查看股票行情，注意力难以集中。</li></ul><h2 id="产品价值"><a href="#产品价值" class="headerlink" title="产品价值"></a>产品价值</h2><ul><li>用户点击插件图标，即可获取股票行情，操作便捷且节约时间。</li><li>用户将鼠标悬浮于插件图标，即可显示简略行情；鼠标离开则行情消失，避免被窥屏。</li><li>用户可选择在股价异动时接收提醒，减轻焦虑感，集中注意力。</li></ul><h2 id="竞争格局"><a href="#竞争格局" class="headerlink" title="竞争格局"></a>竞争格局</h2><ul><li>Chrome商店共有20多个股票行情插件。多数插件在定位、功能、交互、设计等方面都存在较大问题。</li><li>“股票提醒助手”是该领域的领先者。该插件定位清晰，功能完善，交互设计人性化，用户数量和好评度都在同类产品中遥遥领先。</li><li>根据用户反馈，“股票提醒助手”在数据全面程度、图标数字显示等方面存在不足。这是本产品可以寻求的突破口。</li></ul><h2 id="产品定位"><a href="#产品定位" class="headerlink" title="产品定位"></a>产品定位</h2><p>一款能够在工作间隙，快速查看股票行情的浏览器插件。</p><h2 id="产品名称"><a href="#产品名称" class="headerlink" title="产品名称"></a>产品名称</h2><p>股票行情速览</p><h2 id="关键指标"><a href="#关键指标" class="headerlink" title="关键指标"></a>关键指标</h2><ul><li>用户数量</li><li>用户黏性</li><li>用户评价</li></ul><h2 id="投放渠道"><a href="#投放渠道" class="headerlink" title="投放渠道"></a>投放渠道</h2><ul><li>浏览器应用商店（Chrome、360极速、猎豹…）</li><li>CRX安装包（项目官网、百度网盘…）</li></ul><h2 id="推广渠道"><a href="#推广渠道" class="headerlink" title="推广渠道"></a>推广渠道</h2><ul><li>分享给身边的目标用户。</li><li>到目标用户所在的网络社区宣传。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;开展机会评估，是打造互联网产品的第一步。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈谈城市（一）十二城记</title>
+    <link href="http://yoursite.com/2020/03/03/%E8%B0%88%E8%B0%88%E5%9F%8E%E5%B8%82%EF%BC%88%E4%B8%80%EF%BC%89%E5%8D%81%E4%BA%8C%E5%9F%8E%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/03/03/%E8%B0%88%E8%B0%88%E5%9F%8E%E5%B8%82%EF%BC%88%E4%B8%80%EF%BC%89%E5%8D%81%E4%BA%8C%E5%9F%8E%E8%AE%B0/</id>
+    <published>2020-03-03T06:06:08.000Z</published>
+    <updated>2020-04-22T00:48:45.938Z</updated>
+    
+    <content type="html"><![CDATA[<p>一篇来自过去的游记，寄给现在的自己。</p><a id="more"></a><p>1人，8省，12城，25天，6000公里，一场22岁夏天的旅行。王安石曾说，”世之奇伟瑰怪非常之观，常于在险远“，但在这段旅途之中，我发现那些四通八达、霓虹闪烁的城市，同样也有着自己的独到风情。</p><p>俗话说“兵马未动，粮草先行”，如果没有父母的辛勤工作，在后方源源不断的支持，一个穷酸学生显然无法进行这样的长途旅行。曾经是你们带我看世界，现在是我自己看世界，未来我要带你们看世界。</p><p>同时，我的姨妈、舅舅、表兄一家也对本次旅行提供了不少精神和物质上的支援。在此，我要对在旅途中关心并帮助我的诸位，表示最衷心的感谢，这段美好时光与你们同在。</p><h2 id="苏州"><a href="#苏州" class="headerlink" title="苏州"></a>苏州</h2><p>苏州，一座和水纠缠不清的城市。这里的街道依河而建，建筑临水而造，园林因水添色，方言如水轻柔，戏曲如水婉转，居民如水温润，生活如水悠长。或许正因为这种气质，苏州没有成为一个“中央集权”式的大城市，而是实现了各区域内的相对均衡。</p><p>苏州处在中国最发达的长三角地区，位于南京、上海、杭州间的中心地带，这既是机遇也是挑战。在苏南模式初显颓势的背景之下，是做快节奏的现代都市，还是慢悠悠的人间天堂，苏州面临选择。</p><h2 id="无锡"><a href="#无锡" class="headerlink" title="无锡"></a>无锡</h2><p>“铁的硬，豆腐的淡而无味，轿子的容量狭小，还加上泥土气，这算他们的民风”，钱钟书在《围城》中这样评价自己的家乡无锡。在我看来，这样的评价颇为准确。</p><p>徜徉在小巷深处的钱钟书纪念馆，你会发现，钱先生正是他笔下的无锡人。对于学术原则，他态度强硬；对于功名利禄，他无比寡淡；他“气量狭小”，因此有时显得尖酸刻薄；他有点土，以致于生活中时常显得“傻里傻气”。一方水土养一方人，这样的钱钟书只会出现在这样的无锡。</p><h2 id="合肥"><a href="#合肥" class="headerlink" title="合肥"></a>合肥</h2><p>合肥，曾经是张辽和李鸿章们的城市。如今，除了一丘荒冢，逍遥津公园再难寻找张辽的印记；淮河路旁的李鸿章故居，也成为了游人拍照打卡的场所。</p><p>漫步安徽省博物馆，层出不穷的帝王将相让人感叹“皖人治国”所言非虚，奢华而不失清雅的徽派建筑则让人梦回那段属于徽商的黄金岁月。协调一致曰合，归异出同曰肥，合肥之于淝河如此，之于安徽也应如此。</p><h2 id="长沙"><a href="#长沙" class="headerlink" title="长沙"></a>长沙</h2><p>长沙，一座属于夜晚的城市。白天的长沙时而艳阳高照，时而又暴雨倾盆，让人不太有出游的兴致。可每当夜幕降临，长沙的魅力便开始显现。宽敞安静的街道变得拥挤喧闹，或明或暗的霓虹灯、震耳欲聋的叫卖声以及因臭豆腐和烧烤而变得有些浑浊的空气，都给人带来强烈的感官冲击力。 </p><p>街头巷尾的长沙，无论是司机还是乞丐，都带有几分霸蛮之气。而到了橘子洲头、岳麓山脚，所有人似乎都变得温和恬淡。毕竟，面对壮阔的自然和漫长的历史，我们人类不过是一个天真的孩子。</p><h2 id="广州"><a href="#广州" class="headerlink" title="广州"></a>广州</h2><p>广州，一座多元文化交融的城市。这里有说粤语的广东人，说普通话的外省人，也不乏说英语的白人、黑人和印度人；这里有岭南风情的民居，西洋特色的骑楼，也有现代感十足的摩天大厦；这里有中山纪念堂里粤剧演员的浅唱低吟，也有越秀山体育场中万千球迷的齐力呐喊；这里的人最开放，那是“千年商都”一脉相承的海纳百川；这里的人也最保守，那是代代相传的宗族情结。</p><p>追溯历史，这里是南越王的治所，是“一口通商”的门户，是革命先烈的奋斗之地；回到现实，这里是魅力花都，是珠三角的中心，是中国南部的超级大都市。夜游珠江，看两岸的绚烂夜色，这样的广州，怎能让人不爱？</p><h2 id="佛山"><a href="#佛山" class="headerlink" title="佛山"></a>佛山</h2><p>佛山，一座最岭南的城市。从广州出发，乘坐广佛线，不到一小时便到达佛山。和广州相比，佛山少了几分繁华的都市气息，多了几分传统的广东特色。岭南天地的广式洋楼，祖庙的雕梁画栋，黄飞鸿纪念馆的舞龙表演，辉记的甜品和应记的云吞，都散发着浓郁的南国风情，让人回味无穷。</p><h2 id="深圳"><a href="#深圳" class="headerlink" title="深圳"></a>深圳</h2><p>深圳，一座属于奋斗者的城市。高峰期的深圳地铁挤满了上下班的年轻人，而其它时间总是空空荡荡。登顶南山，俯瞰深圳，高楼大厦星罗棋布；漫步街头，无论是人是物，似乎都是近四十年产生的“新品”。</p><p>初到深圳，很难不被深圳速度所震撼。这座城市在40年前被按下了“重启键”，所有的一切都被推倒重建，小渔村以火箭般的速度成为大都市。与此同时，你也一定会感到，深圳的生活少了一些历史文化底蕴，以致于有些无聊。</p><p>但是，当参观完深圳博物馆，了解了深圳近四十年的发展历程后，我的想法有所改变。历史既是底蕴也是包袱，正是因为没有包袱，深圳才能毫无顾忌地勇往直前；深圳虽然没有强势的本地文化，却吸纳了来自全世界的人才和文化；深圳的生活或许无聊，但和一座城市一起从零开始，共同成长，难道不是最有意思的事情吗？</p><h2 id="厦门"><a href="#厦门" class="headerlink" title="厦门"></a>厦门</h2><p>厦门，一座昂贵的海上花园。清新的空气，优美的海岸，良好的城建，构成了花园的基础；而闽台文化、侨乡风情和异国建筑，则使这座海上花园熠熠生辉。然而，若想定居在这座海上花园，价格可是相当昂贵。作为二线城市，厦门却有着比肩北上广深的房价，这背后的泡沫引人深思。</p><h2 id="南昌"><a href="#南昌" class="headerlink" title="南昌"></a>南昌</h2><p>南昌，一座需要改变的城市。市中心夜晚昏暗的灯光，空气中垃圾的味道，坑洼的道路，秋水广场的烂泥，横冲直撞的摩托车，22点便停运的地铁，肯德基店员的冷淡态度，在南昌的一切似乎都不太美好。这个 “物华天宝，人杰地灵”的英雄城，真的需要一场彻底的改变。</p><h2 id="洛阳-amp-西安"><a href="#洛阳-amp-西安" class="headerlink" title="洛阳&amp;西安"></a>洛阳&amp;西安</h2><p>“若问古今兴废事，请君还看洛阳城”，一座洛阳城，写尽了中华民族的千年兴衰史。天子架六之秩序森严，丽景门之气势磅礴，龙门石窟之威武壮观，无不诉说着这座城市曾经的辉煌。</p><p>由洛阳向西北方向前进，途经危峰兀立的西岳华山，便来到了十三朝古都西安。以钟楼为中心，放射出东西南北四条大街，每当夜幕降临，华灯初上，不禁让人梦回汉唐。次日饷午，吃过凉皮和肉夹馍，登上西安城楼，在凹凸不平的砖路上缓慢前行，路过无数个闸楼、箭楼、敌楼、正楼，待到夕阳西下，穿过吊桥，寻一城门下楼，来到附近的茶馆，饮一杯清茶，听一曲秦腔，看一出皮影戏，属于西安的完美一天。</p><p>如今，洛阳和西安不再是中华文明的中心，在经济发展、城市建设、市民素质等方面都已落后于东部沿海地区。复兴古都不应只是口号，而是要落实到每一个市民的具体行动。当洛阳每一个餐馆的服务员不再对说普通话的食客冷眼相待，西安的每一个出租车司机不再无故拒载，这两座千年古都必将再次大有作为。</p><h2 id="南京"><a href="#南京" class="headerlink" title="南京"></a>南京</h2><p>“钟山龙蟠，石头险峻，此乃帝王之宅也”，南京三面靠山，一面临江，地势险要，自古便是中国南方的政治和经济中心。然而，南京似乎是一座悲情的城市，定都于此的政权往往短命，而南京也一次次被来自北方的侵略者所蹂躏。</p><p>南京城一次被一次的被毁，一次又一次的重建，文化的脉络却始终没有中断。博物馆的精美展品，向我们展示独属南京的六朝风流；明故宫和明孝陵的断垣残壁，见证了帝都曾经的辉煌；大屠杀遇难同胞纪念馆泛黄的照片，诉说着属于南京这座城市的脆弱与坚强。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一篇来自过去的游记，寄给现在的自己。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="城市" scheme="http://yoursite.com/tags/%E5%9F%8E%E5%B8%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈谈互联网（一）信息分发</title>
+    <link href="http://yoursite.com/2020/03/01/%E8%B0%88%E8%B0%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%88%E4%B8%80%EF%BC%89%E4%BF%A1%E6%81%AF%E5%88%86%E5%8F%91/"/>
+    <id>http://yoursite.com/2020/03/01/%E8%B0%88%E8%B0%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%88%E4%B8%80%EF%BC%89%E4%BF%A1%E6%81%AF%E5%88%86%E5%8F%91/</id>
+    <published>2020-03-01T11:27:57.000Z</published>
+    <updated>2020-04-22T00:48:41.250Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文主要内容：介绍在信息过载时代，互联网信息分发的特点和模式。</p><a id="more"></a><h2 id="信息的传播过程"><a href="#信息的传播过程" class="headerlink" title="信息的传播过程"></a>信息的传播过程</h2><p>香农认为，信息是用来消除随机不确定性的东西。信息传播主要有五个过程：信源发布信息；信息被转换为信号（编码）；媒介传输信号；信号被转化为信息（译码）；信宿接收信息。在媒介传输信号的过程中，噪声会对其造成干扰。这种干扰会使得信息传播出现偏差，甚至导致信息传播失败。</p><p>理想的信息传播工具应该具有以下特点：发布和接收信息简便；编码和解码准确高效；信号传输尽可能不受干扰。迄今为止，互联网是最先进的信息传播工具。<br><img src="/images/29.png" width="80%"></p><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 信息传播过程</center><h2 id="信息分发的必要性"><a href="#信息分发的必要性" class="headerlink" title="信息分发的必要性"></a>信息分发的必要性</h2><p>互联网传播信息的便捷性，使得人人都是海量信息的生产者，人人也是海量信息的接收者。因此，我们所能获取的信息总量，远远超出了我们所能处理的上限。换言之，人类社会第一次从“信息匮乏”转变为“信息过载”。</p><p>在信息过载的背景下，信息分发成为一种必需。所谓信息分发，就是对杂乱无章的信息进行分类整理，并将其发送给用户的过程。信息分发的根本目的，就是帮助用户用最简单的操作，以最快的速度，筛选出最有价值的信息。</p><h2 id="信息分发的四个时代"><a href="#信息分发的四个时代" class="headerlink" title="信息分发的四个时代"></a>信息分发的四个时代</h2><p>人类信息传播史有五次革命：一是语言的出现，人与人间的信息传播更加高效；二是文字的出现，信息传播开始摆脱时间和空间的限制；三是印刷术的出现，书面传播的成本大大降低；四是电话、电话的出现，信息传播逐渐直观化；五是互联网的出现，信息传播的边际成本无限趋近于0。</p><p>和前四次革命相比，互联网革命呈现出快速迭代的特点。在不到30年的发展历程中，根据核心技术、表现形式、用户需求和商业模式的不同，互联网信息分发可以划分成四个时代：索引时代、搜索时代、社交时代和算法时代。</p><h3 id="索引时代（Yahoo）"><a href="#索引时代（Yahoo）" class="headerlink" title="索引时代（Yahoo）"></a>索引时代（Yahoo）</h3><p>手工分类、手工录入的索引网站，是互联网信息分发的先行者。索引网站运用超链接技术，以网络黄页的形式，满足了用户迅速找到目标网站的需求。索引网站的主要收入来源，是出售网站顶部Banner、侧边栏等位置的广告。</p><h3 id="搜索时代（Google）"><a href="#搜索时代（Google）" class="headerlink" title="搜索时代（Google）"></a>搜索时代（Google）</h3><p>自动爬取网页，并对其进行排序的搜索引擎，终结了索引时代。搜索引擎运用爬虫程序和排序算法（如PageRank），以网页列表的形式，满足了用户精准获取信息的需求。搜索引擎的主要收入来源，是关键词广告（AdWords），即显示在搜索结果页面的网站链接广告。</p><h3 id="社交时代（Facebook）"><a href="#社交时代（Facebook）" class="headerlink" title="社交时代（Facebook）"></a>社交时代（Facebook）</h3><p>用户自主关注、分享、创造内容的社交网站，抢占了搜索引擎的大量流量。社交网站运用自主建站技术，以时间线（Timeline）的形式，满足了用户分享自己动态、关注他人动态的需求。社交网站的主要收入来源，是插入到时间线的信息流广告。</p><h3 id="算法时代（今日头条）"><a href="#算法时代（今日头条）" class="headerlink" title="算法时代（今日头条）"></a>算法时代（今日头条）</h3><p>根据用户浏览、点赞、分享记录，主动推送信息的综合信息平台，是互联网信息分发的新贵。综合信息平台运用协同过滤等推荐算法，以无限瀑布流（Infinite Scrolling）的形式，满足了用户获取感兴趣信息的需求。综合信息平台的主要收入来源，是个性化广告的精准推送。</p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>回顾互联网信息分发的发展进程，我们可以总结出以下规律：</p><ul><li><p>用户正变得越来越懒惰：在索引时代，他们到网站寻找信息；在搜索时代，他们用搜索引擎搜索信息；在社交时代，他们用社交网络订阅信息；在算法时代，他们让软件主动推送信息。</p></li><li><p>技术的进步，催生了新的信息分发模式；用户需求的满足，使新的信息分发模式得以普及；商业模式的创新，让新的信息分发模式能够持续发展。</p></li><li><p>信息分发模式的创新是不可逆转的大趋势。顺应趋势，默默无闻的小公司能够在几年内成长为行业领袖；悖逆趋势，千亿美元市值的巨头也会在转瞬之间灰飞烟灭。</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文主要内容：介绍在信息过载时代，互联网信息分发的特点和模式。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="互联网" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+    
+      <category term="传播" scheme="http://yoursite.com/tags/%E4%BC%A0%E6%92%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>南通二手房数据分析（二）数据挖掘和可视化</title>
+    <link href="http://yoursite.com/2020/02/28/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%92%8C%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <id>http://yoursite.com/2020/02/28/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%92%8C%E5%8F%AF%E8%A7%86%E5%8C%96/</id>
+    <published>2020-02-28T10:51:31.000Z</published>
+    <updated>2020-04-22T00:48:36.906Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文主要内容：挖掘南通二手房市场数据，并进行可视化展示。</p><a id="more"></a><p>特别说明：本文程序模仿了知乎网友<a href="https://zhuanlan.zhihu.com/p/38759896" target="_blank" rel="noopener">路远</a>。</p><h2 id="地域分析"><a href="#地域分析" class="headerlink" title="地域分析"></a>地域分析</h2><p>从行政区域上看，南通市共有崇川区、港闸区、通州区和开发区四个大区。二手房数量、总价、单价方面，作为市中心的崇川区都独占鳌头。面积方面，开发区总体较小，这可能与当地开发较晚，小户型住房住宅偏多有关；关注度方面，港闸区位居首位，这可能有两点原因：第一，港闸区邻近城市中心，但房价相对较低；第二，港闸区被定位为城市副中心，具有一定的发展前景。除去面积外的各项指标，近几年才被划入市区的通州区都排在末位，表明其依然有很大的发展潜力。</p><table>   <tr>      <td></td>      <td>数量（套）</td>      <td>平均总价（万元）</td>      <td>平均面积（m²）</td>      <td>平均单价（元）</td>      <td>平均关注数（人）</td>   </tr>   <tr>      <td>市区平均</td>      <td>2599</td>      <td>196.13</td>      <td>113.84</td>      <td>16774.37</td>      <td>4.11</td>   </tr>   <tr>      <td>崇川区</td>      <td>945</td>      <td>239.64</td>      <td>116.89</td>      <td>19884.71</td>      <td>4.36</td>   </tr>   <tr>      <td>港闸区</td>      <td>497</td>      <td>204.28</td>      <td>114.98</td>      <td>17365.26</td>      <td>5.01</td>   </tr>   <tr>      <td>通州区</td>      <td>443</td>      <td>144.74</td>      <td>119.33</td>      <td>11967.84</td>      <td>2.53</td>   </tr>   <tr>      <td>开发区</td>      <td>714</td>      <td>164.74</td>      <td>105.6</td>      <td>15228.63</td>      <td>4.13</td>   </tr></table><center style="font-size:14px;color:rgb(51,51,51,0.7)">表1 南通各行政区二手房信息</center><p>从具体区块上看，南通市被划分为26个部分。单价方面，新城、濠河两大中心区块持续坚挺，观音山、秦灶等新兴区块涨势明显，兴东、三余等偏远区块依然处于价值洼地。<br><img src="/images/20.png"><br>由箱型图可以看出，多数区块二手房总价的中位数在200万元左右。高总价的区块（如新城、濠河），其总价的离散程度较高，这可能与当地大面积豪宅数量较多有关。<br><img src="/images/21.png"><br>二手房数量方面，能达商务区一骑绝尘，这可能有两点原因：一方面，能达商务区是市政府的重点开发区域，房产数量本身较多；另一方面，能达商务区的炒作氛围浓厚，房屋换手率高。<br><img src="/images/22.png"></p><h2 id="特征分析"><a href="#特征分析" class="headerlink" title="特征分析"></a>特征分析</h2><p>面积方面，120-130平方米的二手房数量最多。与正态分布相比，超大（小）二手房所占比例较高，具有一定的长尾特征。面积与单价关系方面，二手房面积越大，其单价越高，这可能与大面积住宅总体档次较高有关。<br><img src="/images/23.png"></p><p>户型方面，3室两厅、2室1厅排名前二。值得注意的是，4室2厅排名第三，这可能是因为大户型二手房销售难度较大，产生了一定的积压。<br><img src="/images/24.png"></p><p>装修方面，精装和毛坯数量相当，简装相对较少。价格上看，精装最高，毛坯第二，简装最低。<br><img src="/images/25.png"></p><p>结构方面，板楼数量最多，板塔结合次之，塔楼最少。价格上看，塔楼和板塔结合要高于板楼。<br><img src="/images/26.png"></p><p>层次方面，6、17、32、33楼数量最多。这些楼层分别处于低层次、中层次和高层次居民楼的顶部。该现象表明高楼层住宅的转手率较高。<br><img src="/images/27.png"></p><p>命名方面，“花园”、“南通”、“新村”的出现频率排名前三。此外，“家园”、“国际”、“世纪”等词语也经常出现在小区名称中。<br><img src="/images/28.jpeg" width="50%"></p><h2 id="聚类分析"><a href="#聚类分析" class="headerlink" title="聚类分析"></a>聚类分析</h2><p>对所有房源按照总价、面积、单价和关注人数进行聚类分析，我们发现低总价（96万左右）、低单价（1.2万元/m²左右）、小面积（78平米左右）的二手房最受关注。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> sklearn.cluster <span class="keyword">import</span> KMeans</span><br><span class="line">house_type = np.array(df[[<span class="string">'总价'</span>,<span class="string">'单价(万元)'</span>,<span class="string">'面积'</span>,<span class="string">'关注人数'</span>]])</span><br><span class="line">clf=KMeans(n_clusters=<span class="number">4</span>)</span><br><span class="line">clf=clf.fit(house_type)</span><br><span class="line">clf.cluster_centers_</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"># 输出结果</span><br><span class="line">array([[189.61811289,   1.64498576, 119.35233361,   3.92333614],</span><br><span class="line">       [ 96.00214376,   1.23374623,  78.66457755,   6.05296343],</span><br><span class="line">       [602.67346939,   2.87342521, 217.77816327,   1.2244898 ],</span><br><span class="line">       [314.03368421,   2.25947688, 142.36498246,   2.04035088]])</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文主要内容：挖掘南通二手房市场数据，并进行可视化展示。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="数据分析" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>南通二手房数据分析（一）数据爬取和清洗</title>
+    <link href="http://yoursite.com/2020/02/27/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E5%92%8C%E6%B8%85%E6%B4%97/"/>
+    <id>http://yoursite.com/2020/02/27/%E5%8D%97%E9%80%9A%E4%BA%8C%E6%89%8B%E6%88%BF%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E5%92%8C%E6%B8%85%E6%B4%97/</id>
+    <published>2020-02-27T06:01:44.000Z</published>
+    <updated>2020-04-22T00:48:33.937Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文主要内容：使用Python爬取链家网二手房数据，并对爬取数据进行清洗。</p><a id="more"></a><p>特别说明：本文程序模仿了知乎网友<a href="https://zhuanlan.zhihu.com/p/31267802" target="_blank" rel="noopener">半砚墨</a>。</p><h2 id="数据爬取"><a href="#数据爬取" class="headerlink" title="数据爬取"></a>数据爬取</h2><p>第一步，导入所需模块。requests用于信息抓取，time用于设置每次抓取的休息时间，BeautifulSoup用于页面解析，pandas用于数据处理。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"><span class="keyword">import</span> time</span><br><span class="line"><span class="keyword">from</span> bs4 <span class="keyword">import</span> BeautifulSoup</span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br></pre></td></tr></table></figure><p>第二步，设置头部信息，将爬虫伪装成正常请求。由于链家网反爬机制的升级，一定要将User-Agent替换成浏览器标识。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">headers = &#123;</span><br><span class="line"><span class="string">'User-Agent'</span>: <span class="string">"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36"</span>,</span><br><span class="line"><span class="string">'Accept'</span>:<span class="string">'application/json, text/javascript, */*; q=0.01'</span>,</span><br><span class="line"><span class="string">'Accept-Encoding'</span>:<span class="string">'gzip, deflate, br'</span>,</span><br><span class="line"><span class="string">'Accept-Language'</span>:<span class="string">'zh-CN,zh;q=0.8'</span>,</span><br><span class="line"><span class="string">'Connection'</span>:<span class="string">'keep-alive'</span>,</span><br><span class="line"><span class="string">'Referer'</span>:<span class="string">'http://www.baidu.com/link?url=_andhfsjjjKRgEWkj7i9cFmYYGsisrnm2A-TN3XZDQXxvGsM9k9ZZSnikW2Yds4s&amp;amp;amp;wd=&amp;amp;amp;eqid=c3435a7d00006bd600000003582bfd1f'</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>第三步，抓取网页信息。观察目标网页的URL结构，可发现其由固定部分(<a href="http://nt.lianjia.com/ershoufang/pg" target="_blank" rel="noopener">http://nt.lianjia.com/ershoufang/pg</a>) 和页码组成。因此，我们使用for循环构造要请求的URL，并对目标网页进行爬取和解析。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">1</span>,<span class="number">101</span>): </span><br><span class="line">    url = <span class="string">'http://nt.lianjia.com/ershoufang/pg'</span>+str(i)+<span class="string">"/"</span></span><br><span class="line">    res = requests.get(url=url,headers=headers)</span><br><span class="line">    html = res.text</span><br><span class="line">    time.sleep(<span class="number">0.7</span>)</span><br><span class="line">    lj = BeautifulSoup(html,<span class="string">'html.parser'</span>)</span><br></pre></td></tr></table></figure><p>第四步，解析页面信息。首先，新建4个空列表，用于后期插入数据。然后，使用开发者工具查看目标信息所处的位置，提取这些信息，并将其插入列表。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line">tpc = []</span><br><span class="line">loc = []</span><br><span class="line">hio = []</span><br><span class="line">fio = []</span><br><span class="line"></span><br><span class="line"><span class="comment">#提取价格信息</span></span><br><span class="line">price = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"priceInfo"</span>&#125;)</span><br><span class="line"><span class="keyword">for</span> p <span class="keyword">in</span> price:</span><br><span class="line">totalPrice = p.span.string</span><br><span class="line">    tpc.append(totalPrice)</span><br><span class="line">    </span><br><span class="line"><span class="comment">#提取位置信息</span></span><br><span class="line">price = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"positionInfo"</span>&#125;)  </span><br><span class="line"><span class="keyword">for</span> l <span class="keyword">in</span> price:</span><br><span class="line">location = l.get_text()</span><br><span class="line">    loc.append(location)</span><br><span class="line">        </span><br><span class="line"><span class="comment">#提取房源信息</span></span><br><span class="line">houseInfo = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"houseInfo"</span>&#125;)    </span><br><span class="line"><span class="keyword">for</span> h <span class="keyword">in</span> houseInfo:</span><br><span class="line">house = h.get_text()</span><br><span class="line">    hio.append(house)</span><br><span class="line">    </span><br><span class="line"><span class="comment">#提取关注度信息</span></span><br><span class="line">followInfo = lj.find_all(<span class="string">"div"</span>,attrs=&#123;<span class="string">"class"</span>:<span class="string">"followInfo"</span>&#125;)</span><br><span class="line"><span class="keyword">for</span> f <span class="keyword">in</span> followInfo:</span><br><span class="line">follow = f.get_text()</span><br><span class="line">    fio.append(follow)</span><br></pre></td></tr></table></figure><p>第五步，将数据传入pandas数据框，并将其导出为Excel文件。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">house = pd.DataFrame(&#123;<span class="string">"totalprice"</span>:tpc,<span class="string">"location"</span>:loc,<span class="string">"houseinfo"</span>:hio,<span class="string">"followinfo"</span>:fio&#125;)</span><br><span class="line">house.to_excel(<span class="string">"RawData.xlsx"</span>)</span><br></pre></td></tr></table></figure><img src="/images/18.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 原始数据</center><h2 id="数据处理"><a href="#数据处理" class="headerlink" title="数据处理"></a>数据处理</h2><p>数据处理主要有三个步骤：一是使用Excel的“文本分列功能”（数据-&gt;分列），将混同在一列的数据分列；二是使用Python，插入二手房区块所属的行政区域；三是剔除错误数据和极端数据，并调整数据格式。</p><img src="/images/19.png"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 处理后的数据</center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文主要内容：使用Python爬取链家网二手房数据，并对爬取数据进行清洗。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="数据分析" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>互联网银行行业分析（四）SWOT分析</title>
+    <link href="http://yoursite.com/2020/02/23/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89SWOT%E5%88%86%E6%9E%90/"/>
+    <id>http://yoursite.com/2020/02/23/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89SWOT%E5%88%86%E6%9E%90/</id>
+    <published>2020-02-23T06:35:12.000Z</published>
+    <updated>2020-04-22T00:48:29.619Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文运用SWOT模型，分析互联网银行的优势和劣势、机会和风险。</p><a id="more"></a><h2 id="优势和劣势"><a href="#优势和劣势" class="headerlink" title="优势和劣势"></a>优势和劣势</h2><p>互联网银行的优势，在于用户渠道和技术资源。互联网巨头利用社交、电商、搜索、终端等入口，结合用户特点和使用场景制定引流策略，为其银行平台导入了大量用户资源。同时，互联网银行凭借在技术方面的优势，对前期积累的用户数据进行分析，摸索出一套行之有效的运营和风控体系。</p><p>互联网银行的劣势，在于业务单一化和品牌认可度低。互联网银行的主营业务是小额贷款，而这些贷款往往集中在某一细分市场。因此，一旦该细分市场出现问题，互联网银行的盈利和抗风险能力都会受到较大挑战。品牌方面，作为新生事物，大众对于互联网银行还停留在认知阶段，信任程度一般，尚未形成使用习惯，推荐意愿不足。 </p><h2 id="机会和风险"><a href="#机会和风险" class="headerlink" title="机会和风险"></a>机会和风险</h2><p>互联网银行的机会，在于政策限制放开和社会观念转变。政策方面，未来可能会允许远程开设Ⅰ类账户，互联网银行的吸储能力将大幅提升，不再依赖于成本较高的同业融资。社会观念方面，随着互联网渗入到社会生活的方方面面，大众对于互联网银行的认知度和信任度都将不断提高，进而养成使用习惯，并将其推荐给他人。</p><p>互联网银行的风险，在于经济增速下降和技术优势缩水。在经济转型的背景下，低净值个人和小微企业的还贷能力下降，定位于此类用户的互联网银行可能会遭遇资产不良率上升、利润下降等问题。技术方面，传统银行近年来在金融科技领域投入了大量的资源，加上国家力推的信息基础设施建设，互联网银行的优势已经不再明显。 </p><img src="/images/17.png" width="50%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 传统银行金融科技投入（亿元）</center> ]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文运用SWOT模型，分析互联网银行的优势和劣势、机会和风险。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="银行" scheme="http://yoursite.com/tags/%E9%93%B6%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>互联网银行行业分析（三）发展现状</title>
+    <link href="http://yoursite.com/2020/02/22/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6/"/>
+    <id>http://yoursite.com/2020/02/22/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6/</id>
+    <published>2020-02-22T06:34:18.000Z</published>
+    <updated>2020-04-22T00:48:27.467Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文从行业格局、用户特点、主营业务和财务表现四个角度，分析互联网银行的发展现状。</p><a id="more"></a><h2 id="行业格局"><a href="#行业格局" class="headerlink" title="行业格局"></a>行业格局</h2><p>截至2019年12月，在国内共有18家民营银行，其中有9家为互联网银行。从时间上看，2017年是互联网银行开业的高峰期；从最大股东上看，互联网企业和传统企业各自占据了半壁江山；从总资产上看，马太效应已经显现，微众银行和网商银行遥遥领先。</p><img src="/images/13.png" width="80%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 互联网银行一览</center><h2 id="用户特点"><a href="#用户特点" class="headerlink" title="用户特点"></a>用户特点</h2><p>互联网银行的主要用户，是传统银行难以覆盖的长尾人群，如低净值个人、三农群体、小微企业。微众银行定位于低净值个人的“微粒贷”，其80%的用户学历在大专以下，76%的用户为蓝领群体，92%的贷款在5万元以下；定位于小微企业的“微业贷”，其66%的用户为首次获得银行贷款，77%用户的年收入低于1000万元。</p><img src="/images/12.png" width="50%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 微粒贷单笔贷款金额</center><h2 id="主营业务"><a href="#主营业务" class="headerlink" title="主营业务"></a>主营业务</h2><p>和传统银行类似，负债端的存款业务、资产端的贷款业务、表外的中间业务，是互联网银行的主营业务。在负债端，互联网银行由于没有实体网点，账户功能受限，因此吸储能力较弱，主要依赖于同业融资；在资产端，互联网银行依靠用户渠道、运营成本等方面的优势，与传统金融机构合作推出“联合贷款”产品；中间业务方面，互联网银行通过提供客户筛选、风险控制、清算对账等服务，向合作机构收取费用。</p><h2 id="财务表现"><a href="#财务表现" class="headerlink" title="财务表现"></a>财务表现</h2><p>从资产结构上看，与传统银行类似，贷款是互联网银行的主要资产，占比超过50%。和传统银行不同的是，互联网银行的现金储备较多，这可能与以下两个原因有关：一是互联网银行成立时间不长，现金资产尚未完全投放；二是考虑到风险管理、政府监管等因素，互联网银行的流动性管理策略较为保守。</p><img src="/images/14.png" width="80%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图3 互联网银行资产结构</center><p>从负债结构上看，相对于传统银行，互联网银行的存款比例较低，同业融资比例较高。互联网银行吸储能力弱，有以下两个原因：一是由于政策限制，互联网银行一度只能开设功能受限的Ⅱ类账户；二是互联网银行成立时间短，用户基数少，公众对于其认知度和信任度较为有限。正因为此，即使存款收益率高于行业水平，互联网银行还是无法吸引到足够的储户存款，只能到成本较高的同业市场融资。</p><img src="/images/15.png" width="80%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图4 互联网银行负债结构</center><p>从财务指标上看，互联网银行兼顾了高收益和低风险。无论是衡量收益的ROA和ROE，还是衡量风险的资产不良率，互联网银行相对传统银行都有一定的优势。当然，互联网银行成立不久，能否真正平衡收益和风险还有待时间的检验。</p><img src="/images/16.png" width="80%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图5 互联网银行财务指标</center><p>互联网银行能够兼顾收益和风险，可能和它的经营特点有关：一是互联网银行主要为低净值个人提供消费贷款，为小微企业提供周转贷款，利率普遍高于传统银行；二是互联网银行无需营业场所和柜面员工，运营成本较低；三是互联网银行掌握大量用户数据，且通过数据挖掘建立了有效的营销和风控体系；四是互联网银行单笔贷款额度较小，且往往和其它机构合作放贷，风险较为分散。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文从行业格局、用户特点、主营业务和财务表现四个角度，分析互联网银行的发展现状。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="银行" scheme="http://yoursite.com/tags/%E9%93%B6%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>互联网银行行业分析（二）发展背景</title>
+    <link href="http://yoursite.com/2020/02/21/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E5%8F%91%E5%B1%95%E8%83%8C%E6%99%AF/"/>
+    <id>http://yoursite.com/2020/02/21/%E4%BA%92%E8%81%94%E7%BD%91%E9%93%B6%E8%A1%8C%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E5%8F%91%E5%B1%95%E8%83%8C%E6%99%AF/</id>
+    <published>2020-02-21T05:19:40.000Z</published>
+    <updated>2020-04-22T00:48:25.312Z</updated>
+    
+    <content type="html"><![CDATA[<p>互联网银行的发展，有其政治、经济、社会和技术背景。</p><a id="more"></a><h2 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h2><p>国家政策放开对于民营银行的限制，是互联网银行发展的必要条件。2010年5月，国务院发布《关于鼓励和引导民间投资健康发展的若干意见》，从政策上提出了民间资本进入金融业的可能性。2010-2014年，党代表大会、国务院、银监会等机构先后出台政策，为民营银行的设立逐步扫清障碍。</p><p>2015年，首批试点5家民营银行先后开业，其中就有微众银行和网商银行2家互联网银行。2015年6月，银监会明确民营银行由试点经营转为常态化设立，新网银行、苏宁银行等互联网银行先后开业。2016年12月，银监会《关于民营银行监管的指导意见》的出台，标志着民营银行正式被纳入监管体系。</p><table>   <tr>      <td>时间</td>      <td>发布机构</td>      <td>政策名称</td>      <td>主要内容</td>   </tr>   <tr>      <td>2010年5月</td>      <td>国务院</td>      <td>《关于鼓励和引导民间投资健康发展的若干意见》</td>      <td>允许民间资本进入金融服务领域</td>   </tr>   <tr>      <td>2013年8月</td>      <td>国务院</td>      <td>《关于金融支持小微企业发展的实施意见》</td>      <td>推动民间资本发起设立自担风险的民营银行</td>   </tr>   <tr>      <td>2013年11月</td>      <td>十八届三中全会</td>      <td>《中共中央关于全面深化改革若干重大问题的决定》</td>      <td>允许具备条件的民间资本依法发起设立中小型银行等金融机构</td>   </tr>   <tr>      <td>2014年3月</td>      <td>银监会</td>      <td>《自担风险民营银行首批试点名单确定》</td>      <td>确定民营银行的首批试点名单</td>   </tr>   <tr>      <td>2015年6月</td>      <td>银监会</td>      <td>《关于促进民营银行发展的指导意见》</td>      <td>明确民营银行由试点经营转为常态化设立 </td>   </tr>   <tr>      <td>2016年12月</td>      <td>银监会</td>      <td>《关于民营银行监管的指导意见》</td>      <td>正式将民营银行纳入监管体系</td>   </tr></table><center style="font-size:14px;color:rgb(51,51,51,0.7)">表1 民营银行相关政策</center><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><p>参与金融业有利可图，是互联网银行设立的经济动力。国家对于行业门槛和牌照的严格管控，使得金融业长期享受政策红利，资本回报率显著高于其它行业。伴随着政策的放开，互联网公司自然希望依托其用户和技术优势，进入金融行业获取更高利润。 </p><img src="/images/8.png" width="50%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图1 金融类上市公司ROE</center><p>传统银行发展进入瓶颈期，为互联网银行提供了发展机遇。在经济下行、金融脱媒的大背景下，传统银行遭遇到利差收窄、次贷比例上升等问题，盈利能力下降。而互联网银行凭借其运营成本低、风险控制好等优势，不断蚕食着传统银行的市场份额。 </p><img src="/images/9.png" width="80%"><center style="font-size:14px;color:rgb(51,51,51,0.7)">图2 银行不良贷款率和ROE变化</center><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><p>互联网覆盖率的不断提高，为互联网银行提供了大量潜在用户。而移动支付的普及，则让网民开始习惯线上支付行为，催生出管理多余资金、借入不足资金的需求，为互联网银行打下了客群基础。</p><img src="/images/10.png" width="80%"> <center style="font-size:14px;color:rgb(51,51,51,0.7)">图3 网民与移动支付用户规模</center><p>第三方支付、互联网理财等业务的发展，引导着互联网银行的发展。一方面，支付宝、余额宝、理财通等产品的普及，起到了互联网金融先行教育的作用，为用户认知、信任互联网银行打下了基础；另一方面，P2P爆雷等负面事件的发生，警示互联网银行要做好风险控制、严守合规底线，为其持续健康发展提供了借鉴作用。</p><img src="/images/11.png" width="50%"> <center style="font-size:14px;color:rgb(51,51,51,0.7)">图4 互联网财富管理规模（亿元）</center><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><p>信息技术的发展，为互联网银行提供了技术支撑。移动互联网技术，使得用户享受金融服务不再受时间和空间的限制；人工智能技术，能为用户提供智能化、专业化、个性化的投资理财服务；区块链技术，有助于金融机构间的数据共享，减少信息不对称带来的违约风险；云计算和大数据技术，让精准化的用户营销和风险评估成为可能。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;互联网银行的发展，有其政治、经济、社会和技术背景。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="金融" scheme="http://yoursite.com/categories/%E9%87%91%E8%9E%8D/"/>
+    
+    
+      <category term="银行" scheme="http://yoursite.com/tags/%E9%93%B6%E8%A1%8C/"/>
+    
+  </entry>
+  
+</feed>
